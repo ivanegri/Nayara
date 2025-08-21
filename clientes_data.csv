@@ -1,0 +1,1001 @@
+,Cliente,Consultor,Data_Ativação,Data_Cancelamento,CSAT,Motivo_Cancelamento,Status,Tempo_Ativo
+0,Cliente_1,Consultor_A,2023-12-22,,2.4728746561883295,,Ativo,
+1,Cliente_2,Consultor_C,2023-06-13,,2.0386217170045384,,Ativo,
+2,Cliente_3,Consultor_C,2023-12-27,,2.409975983343412,,Ativo,
+3,Cliente_4,Consultor_A,2023-08-01,,1.231541131637612,,Ativo,
+4,Cliente_5,Consultor_B,2023-07-21,,2.841831440576747,,Ativo,
+5,Cliente_6,Consultor_A,2023-11-06,,2.3543914747657064,,Ativo,
+6,Cliente_7,Consultor_B,2023-04-07,,4.013362042193313,,Ativo,
+7,Cliente_8,Consultor_A,2023-03-07,2023-03-18,2.192689052380353,Motivo_B,Cancelado,11 days
+8,Cliente_9,Consultor_A,2023-04-07,,2.594352208681248,,Ativo,
+9,Cliente_10,Consultor_B,2023-10-23,,2.0761564474724152,,Ativo,
+10,Cliente_11,Consultor_C,2023-06-26,,3.249778364574625,,Ativo,
+11,Cliente_12,Consultor_B,2023-02-06,,1.0951414635386811,,Ativo,
+12,Cliente_13,Consultor_A,2023-03-21,,3.8675732642223846,,Ativo,
+13,Cliente_14,Consultor_B,2023-05-02,,1.2495210058796613,,Ativo,
+14,Cliente_15,Consultor_A,2023-05-06,,3.0493921257479606,,Ativo,
+15,Cliente_16,Consultor_B,2023-09-16,2023-09-30,1.95966497613722,Motivo_C,Cancelado,14 days
+16,Cliente_17,Consultor_A,2023-05-21,,2.3194972112047356,,Ativo,
+17,Cliente_18,Consultor_C,2023-03-27,,4.929937289687979,,Ativo,
+18,Cliente_19,Consultor_B,2023-09-17,,4.223917141047121,,Ativo,
+19,Cliente_20,Consultor_C,2023-08-20,,1.9414940039900488,,Ativo,
+20,Cliente_21,Consultor_C,2023-02-06,,1.692648665001529,,Ativo,
+21,Cliente_22,Consultor_C,2023-01-06,,4.323947172018295,,Ativo,
+22,Cliente_23,Consultor_A,2023-03-21,,3.208832300800318,,Ativo,
+23,Cliente_24,Consultor_C,2023-09-06,,3.4900378765776163,,Ativo,
+24,Cliente_25,Consultor_A,2023-09-22,,3.82754210661063,,Ativo,
+25,Cliente_26,Consultor_C,2023-03-26,2023-04-08,1.615119815459309,Motivo_A,Cancelado,13 days
+26,Cliente_27,Consultor_A,2023-08-13,,3.0428224497857035,,Ativo,
+27,Cliente_28,Consultor_C,2023-09-02,,1.7631097324502147,,Ativo,
+28,Cliente_29,Consultor_C,2023-12-06,,2.668983813097564,,Ativo,
+29,Cliente_30,Consultor_A,2023-04-13,,2.6147418822636297,,Ativo,
+30,Cliente_31,Consultor_C,2023-07-06,,2.60896790304456,,Ativo,
+31,Cliente_32,Consultor_B,2023-11-11,2023-11-20,2.6431511998392727,Motivo_B,Cancelado,9 days
+32,Cliente_33,Consultor_C,2023-02-22,2023-03-05,4.443791119273367,Motivo_A,Cancelado,11 days
+33,Cliente_34,Consultor_A,2023-01-23,2023-02-17,4.829082974167481,Motivo_B,Cancelado,25 days
+34,Cliente_35,Consultor_B,2023-02-19,,2.0869519006629393,,Ativo,
+35,Cliente_36,Consultor_B,2023-05-25,,4.5962144709224315,,Ativo,
+36,Cliente_37,Consultor_A,2023-11-28,,2.2391862392625876,,Ativo,
+37,Cliente_38,Consultor_B,2023-05-19,,1.074060981648166,,Ativo,
+38,Cliente_39,Consultor_C,2023-01-12,,3.3025337634476353,,Ativo,
+39,Cliente_40,Consultor_A,2023-10-24,,4.704436324745192,,Ativo,
+40,Cliente_41,Consultor_C,2023-04-20,,2.1221074221328804,,Ativo,
+41,Cliente_42,Consultor_A,2023-10-29,2023-11-27,2.928051256910119,Motivo_C,Cancelado,29 days
+42,Cliente_43,Consultor_C,2023-04-14,,3.8851152086986342,,Ativo,
+43,Cliente_44,Consultor_A,2023-03-14,2023-04-02,4.669571586997611,Motivo_A,Cancelado,19 days
+44,Cliente_45,Consultor_A,2023-09-30,,4.7188757996594175,,Ativo,
+45,Cliente_46,Consultor_B,2023-10-03,,3.241443102076137,,Ativo,
+46,Cliente_47,Consultor_A,2023-11-15,,3.796615522916935,,Ativo,
+47,Cliente_48,Consultor_C,2023-05-15,,2.588750228623294,,Ativo,
+48,Cliente_49,Consultor_A,2023-01-30,,2.3020102777611,,Ativo,
+49,Cliente_50,Consultor_A,2023-07-24,,2.295854396706957,,Ativo,
+50,Cliente_51,Consultor_B,2023-08-22,,3.8655525470529866,,Ativo,
+51,Cliente_52,Consultor_C,2023-09-03,,1.2650204848902833,,Ativo,
+52,Cliente_53,Consultor_A,2023-10-22,,2.631468970789279,,Ativo,
+53,Cliente_54,Consultor_B,2023-03-11,,2.70499864879741,,Ativo,
+54,Cliente_55,Consultor_B,2023-09-12,2023-10-02,3.3182881353429337,Motivo_A,Cancelado,20 days
+55,Cliente_56,Consultor_C,2023-04-06,,2.367682581358161,,Ativo,
+56,Cliente_57,Consultor_A,2023-09-29,,1.090515360661131,,Ativo,
+57,Cliente_58,Consultor_B,2023-02-01,,3.395815612400758,,Ativo,
+58,Cliente_59,Consultor_B,2023-07-09,,1.9776448644621154,,Ativo,
+59,Cliente_60,Consultor_C,2023-03-22,2023-04-07,3.7460467644047175,Motivo_B,Cancelado,16 days
+60,Cliente_61,Consultor_C,2023-10-13,,3.3978139519864654,,Ativo,
+61,Cliente_62,Consultor_A,2023-06-10,2023-07-02,3.9815527163771143,Motivo_B,Cancelado,22 days
+62,Cliente_63,Consultor_A,2023-08-29,,4.163883998562313,,Ativo,
+63,Cliente_64,Consultor_A,2023-12-06,,4.220265087898479,,Ativo,
+64,Cliente_65,Consultor_C,2023-10-02,2023-10-10,3.5804338341096766,Motivo_A,Cancelado,8 days
+65,Cliente_66,Consultor_B,2023-04-29,,2.5783570110562004,,Ativo,
+66,Cliente_67,Consultor_C,2023-01-26,,3.159345249089411,,Ativo,
+67,Cliente_68,Consultor_A,2023-12-20,,2.7878972314668604,,Ativo,
+68,Cliente_69,Consultor_B,2023-08-05,,2.5318735325643966,,Ativo,
+69,Cliente_70,Consultor_C,2023-10-22,,4.282365555081059,,Ativo,
+70,Cliente_71,Consultor_C,2023-07-01,,4.712280260202513,,Ativo,
+71,Cliente_72,Consultor_C,2023-12-15,,3.583868078965789,,Ativo,
+72,Cliente_73,Consultor_C,2023-08-20,,1.5650463438331075,,Ativo,
+73,Cliente_74,Consultor_A,2023-09-14,,4.913194318030632,,Ativo,
+74,Cliente_75,Consultor_C,2023-07-14,2023-07-28,4.031330849959772,Motivo_C,Cancelado,14 days
+75,Cliente_76,Consultor_B,2023-04-04,,3.5001279135598606,,Ativo,
+76,Cliente_77,Consultor_A,2023-08-15,,3.597440486969551,,Ativo,
+77,Cliente_78,Consultor_A,2023-10-15,,1.9309704630310622,,Ativo,
+78,Cliente_79,Consultor_A,2023-11-17,2023-12-08,1.7663017789587157,Motivo_A,Cancelado,21 days
+79,Cliente_80,Consultor_A,2023-10-15,,1.9445414846542954,,Ativo,
+80,Cliente_81,Consultor_B,2023-07-21,,4.621774516809898,,Ativo,
+81,Cliente_82,Consultor_C,2023-11-24,,4.828135146623849,,Ativo,
+82,Cliente_83,Consultor_B,2023-06-25,2023-07-01,2.3454385194027365,Motivo_B,Cancelado,6 days
+83,Cliente_84,Consultor_C,2023-01-20,,3.156420933373249,,Ativo,
+84,Cliente_85,Consultor_B,2023-04-11,2023-04-25,1.5797663785361946,Motivo_A,Cancelado,14 days
+85,Cliente_86,Consultor_A,2023-08-18,,1.6890577543864698,,Ativo,
+86,Cliente_87,Consultor_C,2023-10-23,,1.112083628300243,,Ativo,
+87,Cliente_88,Consultor_C,2023-08-25,2023-09-06,2.248278061651973,Motivo_B,Cancelado,12 days
+88,Cliente_89,Consultor_B,2023-03-08,,1.7662278518845889,,Ativo,
+89,Cliente_90,Consultor_A,2023-06-01,,4.813909536387104,,Ativo,
+90,Cliente_91,Consultor_C,2023-07-24,,2.6773234842408753,,Ativo,
+91,Cliente_92,Consultor_A,2023-10-10,,3.1705809681238044,,Ativo,
+92,Cliente_93,Consultor_C,2023-05-16,2023-05-29,1.961729331070172,Motivo_C,Cancelado,13 days
+93,Cliente_94,Consultor_A,2023-10-21,,2.4524827758219794,,Ativo,
+94,Cliente_95,Consultor_C,2023-11-28,,1.1826476328040063,,Ativo,
+95,Cliente_96,Consultor_C,2023-03-30,,1.126090081283623,,Ativo,
+96,Cliente_97,Consultor_B,2023-09-06,,3.704394420569622,,Ativo,
+97,Cliente_98,Consultor_B,2023-02-27,,3.755890935901074,,Ativo,
+98,Cliente_99,Consultor_A,2023-05-11,2023-06-02,4.500553606133193,Motivo_A,Cancelado,22 days
+99,Cliente_100,Consultor_A,2023-11-14,,1.158277735354663,,Ativo,
+100,Cliente_101,Consultor_A,2023-12-12,,1.9796938940820419,,Ativo,
+101,Cliente_102,Consultor_B,2023-08-02,,1.8606264673367767,,Ativo,
+102,Cliente_103,Consultor_C,2023-12-26,,2.640359439543371,,Ativo,
+103,Cliente_104,Consultor_A,2023-09-01,,3.6520010806452,,Ativo,
+104,Cliente_105,Consultor_B,2023-02-24,,2.620105919790611,,Ativo,
+105,Cliente_106,Consultor_A,2023-11-03,,4.418732803748149,,Ativo,
+106,Cliente_107,Consultor_C,2023-06-16,2023-06-28,2.538546604139637,Motivo_B,Cancelado,12 days
+107,Cliente_108,Consultor_C,2023-06-19,2023-06-28,4.7073932084660965,Motivo_A,Cancelado,9 days
+108,Cliente_109,Consultor_C,2023-07-30,,3.301897859908103,,Ativo,
+109,Cliente_110,Consultor_B,2023-03-07,,1.3109872864708558,,Ativo,
+110,Cliente_111,Consultor_C,2023-01-09,,2.094229999553758,,Ativo,
+111,Cliente_112,Consultor_A,2023-10-22,,3.757528056455291,,Ativo,
+112,Cliente_113,Consultor_B,2023-07-11,,3.4388224906351703,,Ativo,
+113,Cliente_114,Consultor_B,2023-06-20,,3.0210179948735156,,Ativo,
+114,Cliente_115,Consultor_B,2023-07-10,,1.0841435818786551,,Ativo,
+115,Cliente_116,Consultor_A,2023-01-12,,4.914707207806487,,Ativo,
+116,Cliente_117,Consultor_B,2023-12-08,,3.602740827162988,,Ativo,
+117,Cliente_118,Consultor_B,2023-05-01,,4.511164329676774,,Ativo,
+118,Cliente_119,Consultor_A,2023-04-24,,2.2935829871069364,,Ativo,
+119,Cliente_120,Consultor_B,2023-09-05,,4.546814159085656,,Ativo,
+120,Cliente_121,Consultor_B,2023-08-21,2023-08-30,3.66412755711199,Motivo_A,Cancelado,9 days
+121,Cliente_122,Consultor_C,2023-07-03,2023-07-25,1.304412961946576,Motivo_A,Cancelado,22 days
+122,Cliente_123,Consultor_C,2023-02-20,2023-03-12,3.4519114904572965,Motivo_A,Cancelado,20 days
+123,Cliente_124,Consultor_A,2023-03-15,,1.1959613013094046,,Ativo,
+124,Cliente_125,Consultor_B,2023-12-03,2023-12-31,1.3783577754500889,Motivo_B,Cancelado,28 days
+125,Cliente_126,Consultor_B,2023-07-05,,3.0392454501815567,,Ativo,
+126,Cliente_127,Consultor_C,2023-01-28,2023-02-18,1.5784963804494714,Motivo_C,Cancelado,21 days
+127,Cliente_128,Consultor_C,2023-03-26,,1.280306701716122,,Ativo,
+128,Cliente_129,Consultor_C,2023-05-23,,2.146155570243592,,Ativo,
+129,Cliente_130,Consultor_B,2023-06-25,,3.0261431128412135,,Ativo,
+130,Cliente_131,Consultor_C,2023-09-18,,3.6699210766821166,,Ativo,
+131,Cliente_132,Consultor_C,2023-12-15,2023-12-28,1.300161743374618,Motivo_A,Cancelado,13 days
+132,Cliente_133,Consultor_C,2023-11-06,,4.304226726605997,,Ativo,
+133,Cliente_134,Consultor_C,2023-12-29,,1.0124515172072583,,Ativo,
+134,Cliente_135,Consultor_A,2023-09-09,,1.6220560185409512,,Ativo,
+135,Cliente_136,Consultor_A,2023-01-19,,2.978563994870676,,Ativo,
+136,Cliente_137,Consultor_C,2023-05-17,2023-06-05,4.184032700463943,Motivo_C,Cancelado,19 days
+137,Cliente_138,Consultor_A,2023-09-25,,2.117389156852031,,Ativo,
+138,Cliente_139,Consultor_A,2023-07-24,,4.631374167749134,,Ativo,
+139,Cliente_140,Consultor_C,2023-08-03,,3.1276799420652064,,Ativo,
+140,Cliente_141,Consultor_B,2023-11-20,,4.272320684165604,,Ativo,
+141,Cliente_142,Consultor_C,2023-06-07,,3.589173174199551,,Ativo,
+142,Cliente_143,Consultor_A,2023-11-28,,1.4581777428415923,,Ativo,
+143,Cliente_144,Consultor_C,2023-10-07,2023-11-03,3.143150087412994,Motivo_C,Cancelado,27 days
+144,Cliente_145,Consultor_C,2023-12-19,,1.575539781396082,,Ativo,
+145,Cliente_146,Consultor_B,2023-04-09,,3.6100069310109606,,Ativo,
+146,Cliente_147,Consultor_A,2023-05-12,,3.402004108478573,,Ativo,
+147,Cliente_148,Consultor_B,2023-01-04,,1.1523546041859754,,Ativo,
+148,Cliente_149,Consultor_B,2023-12-12,,1.8078571459492796,,Ativo,
+149,Cliente_150,Consultor_A,2023-08-28,,3.0886487416075328,,Ativo,
+150,Cliente_151,Consultor_C,2023-06-10,,4.110461791111777,,Ativo,
+151,Cliente_152,Consultor_B,2023-10-06,2023-10-07,4.0081355703795065,Motivo_A,Cancelado,1 days
+152,Cliente_153,Consultor_A,2023-12-21,,3.6546462369069523,,Ativo,
+153,Cliente_154,Consultor_C,2023-03-20,,1.8818597546534899,,Ativo,
+154,Cliente_155,Consultor_B,2023-11-17,,4.640116124604827,,Ativo,
+155,Cliente_156,Consultor_B,2023-04-10,,1.22561645010243,,Ativo,
+156,Cliente_157,Consultor_A,2023-09-20,,1.6455479664931887,,Ativo,
+157,Cliente_158,Consultor_C,2023-09-27,2023-10-24,4.410078759833574,Motivo_A,Cancelado,27 days
+158,Cliente_159,Consultor_A,2023-07-07,,4.368447206970723,,Ativo,
+159,Cliente_160,Consultor_A,2023-11-23,,4.723875255233828,,Ativo,
+160,Cliente_161,Consultor_C,2023-01-27,,4.563656799013639,,Ativo,
+161,Cliente_162,Consultor_C,2023-04-24,,4.623716600943158,,Ativo,
+162,Cliente_163,Consultor_A,2023-06-28,,1.7850248092872159,,Ativo,
+163,Cliente_164,Consultor_C,2023-05-31,2023-06-24,2.6642780933431687,Motivo_C,Cancelado,24 days
+164,Cliente_165,Consultor_C,2023-08-22,,4.181211317937098,,Ativo,
+165,Cliente_166,Consultor_B,2023-06-06,,4.279183673043239,,Ativo,
+166,Cliente_167,Consultor_C,2023-10-22,,1.8424816969948257,,Ativo,
+167,Cliente_168,Consultor_A,2023-02-06,2023-02-22,2.7032397843548064,Motivo_A,Cancelado,16 days
+168,Cliente_169,Consultor_A,2023-11-13,,2.423148498289944,,Ativo,
+169,Cliente_170,Consultor_C,2023-09-14,,2.021532458212085,,Ativo,
+170,Cliente_171,Consultor_C,2023-09-28,,3.8979313851799327,,Ativo,
+171,Cliente_172,Consultor_C,2023-04-14,,2.532424531371874,,Ativo,
+172,Cliente_173,Consultor_A,2023-08-27,,1.8913021403678991,,Ativo,
+173,Cliente_174,Consultor_A,2023-03-30,2023-04-13,2.060720276773215,Motivo_A,Cancelado,14 days
+174,Cliente_175,Consultor_B,2023-05-06,,1.8344870312662245,,Ativo,
+175,Cliente_176,Consultor_A,2023-04-16,,1.0183109650118025,,Ativo,
+176,Cliente_177,Consultor_A,2023-04-23,,2.199150813201256,,Ativo,
+177,Cliente_178,Consultor_B,2023-11-24,,4.514275951863038,,Ativo,
+178,Cliente_179,Consultor_A,2023-12-18,,3.5339793228006835,,Ativo,
+179,Cliente_180,Consultor_A,2023-02-06,,4.258744255588429,,Ativo,
+180,Cliente_181,Consultor_B,2023-07-29,,3.966739493707063,,Ativo,
+181,Cliente_182,Consultor_A,2023-01-09,,4.023418307728964,,Ativo,
+182,Cliente_183,Consultor_B,2023-11-02,,1.3136032207388602,,Ativo,
+183,Cliente_184,Consultor_C,2023-06-16,2023-06-29,4.15986021468866,Motivo_B,Cancelado,13 days
+184,Cliente_185,Consultor_B,2023-03-15,2023-03-20,2.7516306268138457,Motivo_A,Cancelado,5 days
+185,Cliente_186,Consultor_A,2023-05-20,2023-05-28,1.8434490718512413,Motivo_C,Cancelado,8 days
+186,Cliente_187,Consultor_C,2023-02-01,,4.297837030832261,,Ativo,
+187,Cliente_188,Consultor_A,2023-01-26,,3.2303816854388185,,Ativo,
+188,Cliente_189,Consultor_B,2023-03-10,,2.935697389478558,,Ativo,
+189,Cliente_190,Consultor_C,2023-09-06,,4.5824429494532275,,Ativo,
+190,Cliente_191,Consultor_B,2023-03-12,,3.3208406471278216,,Ativo,
+191,Cliente_192,Consultor_B,2023-03-23,,3.863606180878059,,Ativo,
+192,Cliente_193,Consultor_A,2023-10-28,,3.7471555227286397,,Ativo,
+193,Cliente_194,Consultor_A,2023-09-18,,1.5105623535707582,,Ativo,
+194,Cliente_195,Consultor_C,2023-11-01,,4.447690373343664,,Ativo,
+195,Cliente_196,Consultor_B,2023-07-10,,1.634705526415138,,Ativo,
+196,Cliente_197,Consultor_A,2023-07-24,2023-07-28,2.262583406274338,Motivo_A,Cancelado,4 days
+197,Cliente_198,Consultor_B,2023-02-11,,4.877407413011532,,Ativo,
+198,Cliente_199,Consultor_B,2023-11-13,,4.935878935375074,,Ativo,
+199,Cliente_200,Consultor_C,2023-08-01,2023-08-17,1.177879831739494,Motivo_C,Cancelado,16 days
+200,Cliente_201,Consultor_C,2023-03-29,2023-04-16,4.79135095758107,Motivo_C,Cancelado,18 days
+201,Cliente_202,Consultor_A,2023-11-05,,1.3933741753895617,,Ativo,
+202,Cliente_203,Consultor_C,2023-09-30,,4.691998321970856,,Ativo,
+203,Cliente_204,Consultor_A,2023-11-30,,1.472290694128021,,Ativo,
+204,Cliente_205,Consultor_C,2023-02-18,,1.7378220466176892,,Ativo,
+205,Cliente_206,Consultor_C,2023-05-27,,3.6278050486145292,,Ativo,
+206,Cliente_207,Consultor_C,2023-06-05,,2.5540019422270697,,Ativo,
+207,Cliente_208,Consultor_B,2023-12-05,,2.4941477523161746,,Ativo,
+208,Cliente_209,Consultor_C,2023-05-24,,4.239534550802894,,Ativo,
+209,Cliente_210,Consultor_C,2023-10-24,,2.1805499094960514,,Ativo,
+210,Cliente_211,Consultor_A,2023-11-09,,2.1349576469729223,,Ativo,
+211,Cliente_212,Consultor_A,2023-10-07,,3.735439199636441,,Ativo,
+212,Cliente_213,Consultor_C,2023-06-14,,4.245723463487677,,Ativo,
+213,Cliente_214,Consultor_C,2023-04-13,2023-04-14,4.830876614201418,Motivo_C,Cancelado,1 days
+214,Cliente_215,Consultor_A,2023-11-06,,3.4187950098892,,Ativo,
+215,Cliente_216,Consultor_A,2023-06-29,,3.020906866866134,,Ativo,
+216,Cliente_217,Consultor_B,2023-12-21,,4.010104141350542,,Ativo,
+217,Cliente_218,Consultor_B,2023-03-11,,1.3936782338175195,,Ativo,
+218,Cliente_219,Consultor_C,2023-01-21,2023-02-15,4.259692636685736,Motivo_A,Cancelado,25 days
+219,Cliente_220,Consultor_B,2023-03-28,,4.544826218706211,,Ativo,
+220,Cliente_221,Consultor_C,2023-10-26,,4.11396025709918,,Ativo,
+221,Cliente_222,Consultor_A,2023-01-02,,1.7241480247161989,,Ativo,
+222,Cliente_223,Consultor_A,2023-01-08,,2.555963640961676,,Ativo,
+223,Cliente_224,Consultor_B,2023-10-25,,3.088774380388705,,Ativo,
+224,Cliente_225,Consultor_C,2023-05-25,,3.405915593934928,,Ativo,
+225,Cliente_226,Consultor_C,2023-09-27,,1.472553871213366,,Ativo,
+226,Cliente_227,Consultor_B,2023-10-14,,4.2526804838215835,,Ativo,
+227,Cliente_228,Consultor_C,2023-08-13,,4.316615776901248,,Ativo,
+228,Cliente_229,Consultor_C,2023-09-19,2023-10-17,3.175933784928951,Motivo_A,Cancelado,28 days
+229,Cliente_230,Consultor_B,2023-09-26,,4.015160500631553,,Ativo,
+230,Cliente_231,Consultor_A,2023-01-15,,2.1252115863932155,,Ativo,
+231,Cliente_232,Consultor_B,2023-05-17,,3.303862080444692,,Ativo,
+232,Cliente_233,Consultor_A,2023-10-31,2023-11-18,3.276777794052968,Motivo_C,Cancelado,18 days
+233,Cliente_234,Consultor_B,2023-04-08,,2.5304507787537522,,Ativo,
+234,Cliente_235,Consultor_B,2023-08-20,,2.3208976705623403,,Ativo,
+235,Cliente_236,Consultor_C,2023-08-08,,3.428294544456029,,Ativo,
+236,Cliente_237,Consultor_C,2023-08-20,,3.1011398513947968,,Ativo,
+237,Cliente_238,Consultor_B,2023-01-20,,2.843301694599246,,Ativo,
+238,Cliente_239,Consultor_C,2023-01-16,,4.331486298364018,,Ativo,
+239,Cliente_240,Consultor_B,2023-08-09,,1.7737189181104016,,Ativo,
+240,Cliente_241,Consultor_C,2023-01-07,,3.4422106788388365,,Ativo,
+241,Cliente_242,Consultor_A,2023-01-02,,4.376280459456348,,Ativo,
+242,Cliente_243,Consultor_C,2023-11-11,,1.7911304464567341,,Ativo,
+243,Cliente_244,Consultor_B,2023-11-28,,1.8660321026950024,,Ativo,
+244,Cliente_245,Consultor_C,2023-02-01,2023-02-20,4.455381087341705,Motivo_B,Cancelado,19 days
+245,Cliente_246,Consultor_A,2023-03-29,,3.2304459772124456,,Ativo,
+246,Cliente_247,Consultor_B,2023-10-05,,2.879799137094493,,Ativo,
+247,Cliente_248,Consultor_A,2023-06-11,,3.6158936257525016,,Ativo,
+248,Cliente_249,Consultor_A,2023-03-08,,4.466677382332083,,Ativo,
+249,Cliente_250,Consultor_B,2023-11-24,,1.5793745787705644,,Ativo,
+250,Cliente_251,Consultor_A,2023-08-09,,2.5158953964583355,,Ativo,
+251,Cliente_252,Consultor_A,2023-02-11,,4.766873942162576,,Ativo,
+252,Cliente_253,Consultor_B,2023-08-08,,3.9581202653152747,,Ativo,
+253,Cliente_254,Consultor_C,2023-06-26,,4.441842771878999,,Ativo,
+254,Cliente_255,Consultor_B,2023-10-15,,2.6245977042946467,,Ativo,
+255,Cliente_256,Consultor_A,2023-09-16,2023-10-01,4.976518951089265,Motivo_B,Cancelado,15 days
+256,Cliente_257,Consultor_A,2023-07-12,,2.333289082943783,,Ativo,
+257,Cliente_258,Consultor_B,2023-01-16,,2.0695744837545935,,Ativo,
+258,Cliente_259,Consultor_A,2023-04-28,2023-05-08,4.457187450725886,Motivo_B,Cancelado,10 days
+259,Cliente_260,Consultor_A,2023-01-24,,3.753397816379298,,Ativo,
+260,Cliente_261,Consultor_B,2023-06-22,2023-07-19,4.594451519150588,Motivo_C,Cancelado,27 days
+261,Cliente_262,Consultor_C,2023-11-13,2023-12-11,4.335397080931179,Motivo_A,Cancelado,28 days
+262,Cliente_263,Consultor_C,2023-03-08,,1.43340098802449,,Ativo,
+263,Cliente_264,Consultor_C,2023-05-09,,3.106807888076283,,Ativo,
+264,Cliente_265,Consultor_B,2023-10-01,2023-10-25,3.4176859334523573,Motivo_C,Cancelado,24 days
+265,Cliente_266,Consultor_C,2023-06-23,,3.675828607522668,,Ativo,
+266,Cliente_267,Consultor_A,2023-04-25,2023-04-28,4.487498101552951,Motivo_C,Cancelado,3 days
+267,Cliente_268,Consultor_A,2023-12-03,,3.5690547564652935,,Ativo,
+268,Cliente_269,Consultor_A,2023-09-24,,3.289334493320598,,Ativo,
+269,Cliente_270,Consultor_C,2023-08-25,,3.0397538225363046,,Ativo,
+270,Cliente_271,Consultor_B,2023-12-15,2024-01-04,2.9657909935433238,Motivo_B,Cancelado,20 days
+271,Cliente_272,Consultor_C,2023-12-22,,3.2082218159377076,,Ativo,
+272,Cliente_273,Consultor_A,2023-12-12,2023-12-13,3.6548979364133616,Motivo_A,Cancelado,1 days
+273,Cliente_274,Consultor_C,2023-09-27,2023-09-29,1.60431014934433,Motivo_A,Cancelado,2 days
+274,Cliente_275,Consultor_B,2023-08-28,,1.9376068651178882,,Ativo,
+275,Cliente_276,Consultor_B,2023-10-17,,1.2639164195942132,,Ativo,
+276,Cliente_277,Consultor_B,2023-05-07,,1.3818337036113983,,Ativo,
+277,Cliente_278,Consultor_B,2023-04-14,,3.3612304523201955,,Ativo,
+278,Cliente_279,Consultor_A,2023-07-25,,2.7459940170356014,,Ativo,
+279,Cliente_280,Consultor_B,2023-02-25,,3.0734111581577492,,Ativo,
+280,Cliente_281,Consultor_A,2023-02-15,,3.8436589655949387,,Ativo,
+281,Cliente_282,Consultor_A,2023-02-13,,3.3601283424447983,,Ativo,
+282,Cliente_283,Consultor_C,2023-03-15,2023-03-18,2.2731672155405795,Motivo_C,Cancelado,3 days
+283,Cliente_284,Consultor_B,2023-03-01,2023-03-31,4.472441459943962,Motivo_B,Cancelado,30 days
+284,Cliente_285,Consultor_C,2023-07-18,,1.2703736276261175,,Ativo,
+285,Cliente_286,Consultor_B,2023-06-09,,1.2292220362218909,,Ativo,
+286,Cliente_287,Consultor_B,2023-10-01,,3.177485232426181,,Ativo,
+287,Cliente_288,Consultor_A,2023-08-22,,2.8519654953124087,,Ativo,
+288,Cliente_289,Consultor_A,2023-01-12,2023-01-14,1.0610188967028975,Motivo_C,Cancelado,2 days
+289,Cliente_290,Consultor_C,2023-07-28,,4.251878472560785,,Ativo,
+290,Cliente_291,Consultor_B,2023-04-05,,3.5951641689448337,,Ativo,
+291,Cliente_292,Consultor_B,2023-12-04,2024-01-02,1.4944287744474103,Motivo_B,Cancelado,29 days
+292,Cliente_293,Consultor_A,2024-01-01,,2.722143228684139,,Ativo,
+293,Cliente_294,Consultor_B,2023-06-19,,3.6862617344173207,,Ativo,
+294,Cliente_295,Consultor_A,2023-06-19,2023-07-12,1.8833299696203447,Motivo_A,Cancelado,23 days
+295,Cliente_296,Consultor_A,2023-06-19,,1.4900704336008692,,Ativo,
+296,Cliente_297,Consultor_B,2023-07-02,,1.0785219302821054,,Ativo,
+297,Cliente_298,Consultor_C,2023-08-19,,4.958480061586954,,Ativo,
+298,Cliente_299,Consultor_B,2023-10-26,,4.008823418783024,,Ativo,
+299,Cliente_300,Consultor_C,2023-05-27,,3.3099157881297936,,Ativo,
+300,Cliente_301,Consultor_B,2023-06-20,,4.478914165355141,,Ativo,
+301,Cliente_302,Consultor_C,2023-10-14,,1.504595226183238,,Ativo,
+302,Cliente_303,Consultor_C,2023-08-29,2023-08-30,4.177273367811123,Motivo_A,Cancelado,1 days
+303,Cliente_304,Consultor_B,2023-11-10,,1.9095851428404975,,Ativo,
+304,Cliente_305,Consultor_C,2023-06-08,,4.811487224729928,,Ativo,
+305,Cliente_306,Consultor_B,2023-04-02,,3.0912964962045404,,Ativo,
+306,Cliente_307,Consultor_C,2023-08-16,,1.9831006956366015,,Ativo,
+307,Cliente_308,Consultor_C,2023-06-26,,2.978097196481822,,Ativo,
+308,Cliente_309,Consultor_C,2023-11-20,2023-12-17,2.868715332295672,Motivo_B,Cancelado,27 days
+309,Cliente_310,Consultor_B,2023-07-05,,4.163855812463975,,Ativo,
+310,Cliente_311,Consultor_C,2023-06-05,,1.1306596149734007,,Ativo,
+311,Cliente_312,Consultor_C,2023-01-23,,1.1530327836136904,,Ativo,
+312,Cliente_313,Consultor_B,2023-10-03,,1.1394957809778,,Ativo,
+313,Cliente_314,Consultor_A,2023-09-16,,1.3733240141489835,,Ativo,
+314,Cliente_315,Consultor_C,2023-04-22,,1.606548017649191,,Ativo,
+315,Cliente_316,Consultor_A,2023-03-19,,4.187462132267559,,Ativo,
+316,Cliente_317,Consultor_B,2023-04-06,,2.6741330672285435,,Ativo,
+317,Cliente_318,Consultor_B,2023-06-08,,3.232406774815048,,Ativo,
+318,Cliente_319,Consultor_A,2023-01-11,2023-01-20,2.461490600627622,Motivo_B,Cancelado,9 days
+319,Cliente_320,Consultor_C,2023-05-17,,1.379535070535593,,Ativo,
+320,Cliente_321,Consultor_C,2023-05-14,2023-05-18,3.635952266672504,Motivo_C,Cancelado,4 days
+321,Cliente_322,Consultor_A,2023-09-21,,1.7289296227091127,,Ativo,
+322,Cliente_323,Consultor_B,2023-10-18,,3.1584940055567925,,Ativo,
+323,Cliente_324,Consultor_B,2023-03-26,,4.9312416515505735,,Ativo,
+324,Cliente_325,Consultor_C,2023-02-14,,1.869387854675658,,Ativo,
+325,Cliente_326,Consultor_B,2023-05-07,,1.9752219752487883,,Ativo,
+326,Cliente_327,Consultor_A,2023-11-01,2023-11-12,3.937369233636212,Motivo_C,Cancelado,11 days
+327,Cliente_328,Consultor_C,2023-08-22,,3.1707730704513004,,Ativo,
+328,Cliente_329,Consultor_B,2023-12-02,2023-12-19,4.24509651461443,Motivo_C,Cancelado,17 days
+329,Cliente_330,Consultor_B,2023-01-08,,1.2658482144709429,,Ativo,
+330,Cliente_331,Consultor_B,2023-02-20,,3.770283645809842,,Ativo,
+331,Cliente_332,Consultor_C,2023-06-05,,2.24336758863783,,Ativo,
+332,Cliente_333,Consultor_C,2023-02-08,,2.5282676909744617,,Ativo,
+333,Cliente_334,Consultor_C,2023-02-26,,3.302493618949598,,Ativo,
+334,Cliente_335,Consultor_B,2023-06-24,,3.0520716802432077,,Ativo,
+335,Cliente_336,Consultor_C,2023-12-04,,2.6423574615352363,,Ativo,
+336,Cliente_337,Consultor_C,2023-09-04,2023-09-06,3.444973551663264,Motivo_C,Cancelado,2 days
+337,Cliente_338,Consultor_C,2023-11-08,2023-12-06,4.138889931953255,Motivo_B,Cancelado,28 days
+338,Cliente_339,Consultor_A,2023-06-30,,1.1808286054257158,,Ativo,
+339,Cliente_340,Consultor_C,2023-11-08,,3.4583244918611276,,Ativo,
+340,Cliente_341,Consultor_C,2023-10-12,,4.194661530215811,,Ativo,
+341,Cliente_342,Consultor_B,2023-04-25,,1.8695206393851609,,Ativo,
+342,Cliente_343,Consultor_B,2023-01-11,,2.4976956729937574,,Ativo,
+343,Cliente_344,Consultor_C,2023-03-01,2023-03-20,2.982323219889499,Motivo_C,Cancelado,19 days
+344,Cliente_345,Consultor_B,2023-07-12,2023-07-30,4.594863203373369,Motivo_A,Cancelado,18 days
+345,Cliente_346,Consultor_C,2023-03-15,,3.55691924521953,,Ativo,
+346,Cliente_347,Consultor_A,2023-08-31,,2.5723968647094066,,Ativo,
+347,Cliente_348,Consultor_B,2023-09-13,,4.91852728118419,,Ativo,
+348,Cliente_349,Consultor_C,2023-08-31,,2.553877389430234,,Ativo,
+349,Cliente_350,Consultor_C,2023-10-22,,1.3639870110743617,,Ativo,
+350,Cliente_351,Consultor_A,2023-07-09,2023-07-15,3.8574305661028063,Motivo_C,Cancelado,6 days
+351,Cliente_352,Consultor_C,2023-05-11,,2.415654879573739,,Ativo,
+352,Cliente_353,Consultor_C,2023-02-09,2023-03-01,2.483133298702041,Motivo_B,Cancelado,20 days
+353,Cliente_354,Consultor_B,2023-02-21,,4.163701556843948,,Ativo,
+354,Cliente_355,Consultor_A,2023-06-19,,2.5562821164916394,,Ativo,
+355,Cliente_356,Consultor_B,2023-04-05,2023-04-23,3.051216326350421,Motivo_B,Cancelado,18 days
+356,Cliente_357,Consultor_A,2023-03-15,,1.1321685779478168,,Ativo,
+357,Cliente_358,Consultor_B,2023-04-17,,1.2586135949599249,,Ativo,
+358,Cliente_359,Consultor_B,2023-03-18,2023-04-11,1.6943243396925336,Motivo_A,Cancelado,24 days
+359,Cliente_360,Consultor_C,2023-07-14,,4.067925950812288,,Ativo,
+360,Cliente_361,Consultor_C,2023-02-13,,3.1613779444890775,,Ativo,
+361,Cliente_362,Consultor_C,2023-01-11,,2.8496392370501535,,Ativo,
+362,Cliente_363,Consultor_B,2023-11-23,,3.2760589107826097,,Ativo,
+363,Cliente_364,Consultor_C,2023-05-13,,3.6231391506430164,,Ativo,
+364,Cliente_365,Consultor_A,2023-07-28,,4.610194808975894,,Ativo,
+365,Cliente_366,Consultor_B,2023-10-30,2023-11-06,3.9488500889985696,Motivo_C,Cancelado,7 days
+366,Cliente_367,Consultor_C,2023-08-17,,2.9072794571544947,,Ativo,
+367,Cliente_368,Consultor_B,2023-12-10,2023-12-24,3.987208501441948,Motivo_B,Cancelado,14 days
+368,Cliente_369,Consultor_B,2023-09-22,,3.5681775380369367,,Ativo,
+369,Cliente_370,Consultor_A,2023-12-22,,2.4362174923744897,,Ativo,
+370,Cliente_371,Consultor_B,2023-05-18,,3.910791998442754,,Ativo,
+371,Cliente_372,Consultor_C,2023-12-17,2024-01-04,3.4057497233934986,Motivo_B,Cancelado,18 days
+372,Cliente_373,Consultor_A,2023-07-20,2023-08-04,4.8549930072460565,Motivo_A,Cancelado,15 days
+373,Cliente_374,Consultor_A,2023-04-12,2023-05-01,4.007793093671047,Motivo_C,Cancelado,19 days
+374,Cliente_375,Consultor_A,2023-12-19,,1.5256640096262473,,Ativo,
+375,Cliente_376,Consultor_A,2023-09-24,2023-09-29,1.4767183512072344,Motivo_C,Cancelado,5 days
+376,Cliente_377,Consultor_A,2023-07-24,2023-08-02,3.1964092534224107,Motivo_C,Cancelado,9 days
+377,Cliente_378,Consultor_A,2023-06-22,,3.9773443446680736,,Ativo,
+378,Cliente_379,Consultor_A,2023-06-01,2023-06-08,1.51311919129009,Motivo_A,Cancelado,7 days
+379,Cliente_380,Consultor_C,2023-07-24,,2.5520392868255826,,Ativo,
+380,Cliente_381,Consultor_A,2023-08-24,,1.5359297152883502,,Ativo,
+381,Cliente_382,Consultor_B,2023-03-05,,2.7708332694100286,,Ativo,
+382,Cliente_383,Consultor_B,2023-09-20,,4.865660174282177,,Ativo,
+383,Cliente_384,Consultor_C,2023-10-14,,2.4782589400947557,,Ativo,
+384,Cliente_385,Consultor_C,2023-02-13,,4.349145630323279,,Ativo,
+385,Cliente_386,Consultor_C,2023-12-27,,1.4793327393987772,,Ativo,
+386,Cliente_387,Consultor_C,2023-05-27,2023-05-31,2.7942411796103936,Motivo_A,Cancelado,4 days
+387,Cliente_388,Consultor_C,2023-08-06,2023-08-20,1.9659288781962412,Motivo_B,Cancelado,14 days
+388,Cliente_389,Consultor_B,2023-09-24,,1.876775240065197,,Ativo,
+389,Cliente_390,Consultor_C,2023-06-30,,2.7478825922442636,,Ativo,
+390,Cliente_391,Consultor_B,2023-10-06,,1.5663443087646867,,Ativo,
+391,Cliente_392,Consultor_A,2023-08-19,,4.827439643124395,,Ativo,
+392,Cliente_393,Consultor_B,2023-07-20,,2.520032380997,,Ativo,
+393,Cliente_394,Consultor_A,2023-03-12,,1.6900841124917338,,Ativo,
+394,Cliente_395,Consultor_C,2023-08-31,,4.023328975643198,,Ativo,
+395,Cliente_396,Consultor_A,2023-02-20,,1.2734907835675302,,Ativo,
+396,Cliente_397,Consultor_A,2023-06-17,,4.349829891663099,,Ativo,
+397,Cliente_398,Consultor_A,2023-06-21,,1.5559308645712782,,Ativo,
+398,Cliente_399,Consultor_A,2023-08-07,,2.7250324718584804,,Ativo,
+399,Cliente_400,Consultor_C,2023-03-22,,1.244358759842354,,Ativo,
+400,Cliente_401,Consultor_A,2023-10-20,,3.5116837162376693,,Ativo,
+401,Cliente_402,Consultor_A,2023-04-23,,4.178442380036062,,Ativo,
+402,Cliente_403,Consultor_C,2023-09-25,,4.0332503468806085,,Ativo,
+403,Cliente_404,Consultor_A,2023-09-27,2023-10-05,2.474607122641664,Motivo_A,Cancelado,8 days
+404,Cliente_405,Consultor_C,2023-09-23,,2.1950219044658628,,Ativo,
+405,Cliente_406,Consultor_C,2023-12-03,,4.400014355604988,,Ativo,
+406,Cliente_407,Consultor_B,2023-11-06,,3.1509213857479486,,Ativo,
+407,Cliente_408,Consultor_C,2023-08-17,,3.2270038748620373,,Ativo,
+408,Cliente_409,Consultor_B,2023-08-19,,3.0661800479248185,,Ativo,
+409,Cliente_410,Consultor_A,2023-10-12,,2.1916566764701253,,Ativo,
+410,Cliente_411,Consultor_A,2023-01-12,,3.196831591185086,,Ativo,
+411,Cliente_412,Consultor_A,2023-12-20,,1.7419298114342365,,Ativo,
+412,Cliente_413,Consultor_B,2023-09-29,,4.087304416397311,,Ativo,
+413,Cliente_414,Consultor_C,2023-06-17,,1.0911756363936593,,Ativo,
+414,Cliente_415,Consultor_A,2023-05-19,,2.2933627899341498,,Ativo,
+415,Cliente_416,Consultor_B,2023-04-18,,3.6101711628230597,,Ativo,
+416,Cliente_417,Consultor_A,2023-08-13,,4.261482441281611,,Ativo,
+417,Cliente_418,Consultor_A,2023-02-13,,4.638774712445319,,Ativo,
+418,Cliente_419,Consultor_A,2023-01-21,,3.248456045217173,,Ativo,
+419,Cliente_420,Consultor_B,2023-06-19,,3.0973790371684347,,Ativo,
+420,Cliente_421,Consultor_C,2023-12-25,,1.2095977733782575,,Ativo,
+421,Cliente_422,Consultor_A,2023-04-08,2023-04-22,2.5140335484773555,Motivo_A,Cancelado,14 days
+422,Cliente_423,Consultor_A,2023-07-11,,3.566526416260869,,Ativo,
+423,Cliente_424,Consultor_B,2023-08-30,,4.610499428799889,,Ativo,
+424,Cliente_425,Consultor_A,2023-10-06,,4.016342939999236,,Ativo,
+425,Cliente_426,Consultor_C,2023-10-07,,3.6985000642698536,,Ativo,
+426,Cliente_427,Consultor_A,2023-09-21,2023-10-08,3.683510275870376,Motivo_C,Cancelado,17 days
+427,Cliente_428,Consultor_C,2023-05-30,,3.0541175511041914,,Ativo,
+428,Cliente_429,Consultor_A,2023-02-25,,4.222629264490273,,Ativo,
+429,Cliente_430,Consultor_C,2023-12-16,,1.4142178857339291,,Ativo,
+430,Cliente_431,Consultor_A,2023-05-22,2023-06-14,3.8898226141306,Motivo_A,Cancelado,23 days
+431,Cliente_432,Consultor_B,2023-05-14,2023-06-10,1.2837774183618884,Motivo_A,Cancelado,27 days
+432,Cliente_433,Consultor_A,2023-06-28,2023-07-07,3.3471094509491204,Motivo_A,Cancelado,9 days
+433,Cliente_434,Consultor_B,2023-11-11,,4.675054676520394,,Ativo,
+434,Cliente_435,Consultor_B,2023-05-02,,2.5870029382170547,,Ativo,
+435,Cliente_436,Consultor_B,2023-06-23,2023-07-13,2.255177531995415,Motivo_C,Cancelado,20 days
+436,Cliente_437,Consultor_B,2023-11-30,,1.3282731529515535,,Ativo,
+437,Cliente_438,Consultor_B,2023-11-03,2023-11-12,4.516183000129035,Motivo_C,Cancelado,9 days
+438,Cliente_439,Consultor_A,2023-09-18,,3.4084926749857494,,Ativo,
+439,Cliente_440,Consultor_B,2023-08-21,,4.119144249374466,,Ativo,
+440,Cliente_441,Consultor_B,2023-07-06,2023-07-12,4.677335548965783,Motivo_B,Cancelado,6 days
+441,Cliente_442,Consultor_A,2023-01-30,,3.9828236784187965,,Ativo,
+442,Cliente_443,Consultor_C,2023-02-27,2023-03-27,4.406314818174252,Motivo_C,Cancelado,28 days
+443,Cliente_444,Consultor_B,2023-09-13,,1.7462921307344264,,Ativo,
+444,Cliente_445,Consultor_B,2023-08-21,,1.8629755738812874,,Ativo,
+445,Cliente_446,Consultor_B,2023-09-04,2023-10-04,4.91687671250128,Motivo_C,Cancelado,30 days
+446,Cliente_447,Consultor_B,2023-02-25,,4.897961655636379,,Ativo,
+447,Cliente_448,Consultor_B,2023-03-20,2023-04-17,4.971506265690763,Motivo_C,Cancelado,28 days
+448,Cliente_449,Consultor_A,2023-10-10,,3.118510076648682,,Ativo,
+449,Cliente_450,Consultor_B,2023-07-31,,1.2830585408207926,,Ativo,
+450,Cliente_451,Consultor_C,2023-09-16,2023-10-02,2.148418713950749,Motivo_C,Cancelado,16 days
+451,Cliente_452,Consultor_C,2023-11-08,2023-12-07,4.998904510458514,Motivo_A,Cancelado,29 days
+452,Cliente_453,Consultor_C,2023-10-18,,1.7432294120606988,,Ativo,
+453,Cliente_454,Consultor_B,2023-10-25,,3.1279321308737615,,Ativo,
+454,Cliente_455,Consultor_B,2023-05-24,,3.078030155587374,,Ativo,
+455,Cliente_456,Consultor_C,2023-01-06,,4.1422058750508395,,Ativo,
+456,Cliente_457,Consultor_C,2023-06-15,,2.3941558222927837,,Ativo,
+457,Cliente_458,Consultor_A,2023-12-07,,2.6760509489368736,,Ativo,
+458,Cliente_459,Consultor_B,2023-04-11,,1.3530061664162822,,Ativo,
+459,Cliente_460,Consultor_A,2023-05-07,,4.3281098468080375,,Ativo,
+460,Cliente_461,Consultor_C,2023-04-07,,1.347348826582365,,Ativo,
+461,Cliente_462,Consultor_C,2023-11-26,,3.5960051377038584,,Ativo,
+462,Cliente_463,Consultor_A,2023-08-28,,2.233927665941828,,Ativo,
+463,Cliente_464,Consultor_B,2023-09-03,2023-09-12,3.8524930985923342,Motivo_C,Cancelado,9 days
+464,Cliente_465,Consultor_B,2023-02-11,,1.7780914435011654,,Ativo,
+465,Cliente_466,Consultor_A,2023-12-18,,3.698753507375029,,Ativo,
+466,Cliente_467,Consultor_A,2023-03-22,,1.5335916528642675,,Ativo,
+467,Cliente_468,Consultor_C,2023-09-10,,4.42251612947993,,Ativo,
+468,Cliente_469,Consultor_B,2023-10-22,2023-11-17,4.202136940219252,Motivo_B,Cancelado,26 days
+469,Cliente_470,Consultor_C,2023-10-23,2023-11-19,1.095463993476692,Motivo_B,Cancelado,27 days
+470,Cliente_471,Consultor_C,2023-03-19,2023-04-12,2.614548519777392,Motivo_A,Cancelado,24 days
+471,Cliente_472,Consultor_B,2023-06-11,,4.162808761666373,,Ativo,
+472,Cliente_473,Consultor_C,2023-11-12,,3.6428325075346715,,Ativo,
+473,Cliente_474,Consultor_C,2023-12-20,2023-12-22,1.8512321480790823,Motivo_C,Cancelado,2 days
+474,Cliente_475,Consultor_B,2023-07-18,,1.9680350865701346,,Ativo,
+475,Cliente_476,Consultor_A,2023-05-25,2023-05-26,2.609379804223039,Motivo_A,Cancelado,1 days
+476,Cliente_477,Consultor_A,2023-12-09,,2.5702958690787563,,Ativo,
+477,Cliente_478,Consultor_A,2023-11-19,,2.1404641612716793,,Ativo,
+478,Cliente_479,Consultor_C,2023-12-26,,1.9509402618095364,,Ativo,
+479,Cliente_480,Consultor_A,2023-11-08,,2.6662866902861646,,Ativo,
+480,Cliente_481,Consultor_C,2023-05-08,2023-06-01,2.6729262392715256,Motivo_B,Cancelado,24 days
+481,Cliente_482,Consultor_C,2023-05-03,2023-05-31,1.8802409113383547,Motivo_B,Cancelado,28 days
+482,Cliente_483,Consultor_B,2023-11-24,,3.77563187107993,,Ativo,
+483,Cliente_484,Consultor_A,2023-01-18,,2.9662525490458553,,Ativo,
+484,Cliente_485,Consultor_B,2023-12-07,,1.3731025489346576,,Ativo,
+485,Cliente_486,Consultor_B,2023-01-20,,3.8272967368093997,,Ativo,
+486,Cliente_487,Consultor_B,2023-11-21,,2.768731047584633,,Ativo,
+487,Cliente_488,Consultor_C,2023-06-20,,1.1606020211306247,,Ativo,
+488,Cliente_489,Consultor_A,2023-02-14,,3.755237132698928,,Ativo,
+489,Cliente_490,Consultor_B,2023-09-19,,4.359742962978899,,Ativo,
+490,Cliente_491,Consultor_A,2023-05-09,,3.988585619280331,,Ativo,
+491,Cliente_492,Consultor_B,2023-07-20,,1.7541946839626084,,Ativo,
+492,Cliente_493,Consultor_B,2023-09-30,,3.246762878695564,,Ativo,
+493,Cliente_494,Consultor_B,2023-01-27,2023-02-04,2.190623805474169,Motivo_B,Cancelado,8 days
+494,Cliente_495,Consultor_A,2023-05-21,,2.963900393369426,,Ativo,
+495,Cliente_496,Consultor_C,2023-11-10,,4.261676767645719,,Ativo,
+496,Cliente_497,Consultor_C,2023-10-25,2023-11-05,4.18958131040316,Motivo_C,Cancelado,11 days
+497,Cliente_498,Consultor_B,2023-02-21,,2.0861571977437503,,Ativo,
+498,Cliente_499,Consultor_B,2023-01-01,,1.3170771222278712,,Ativo,
+499,Cliente_500,Consultor_A,2023-12-23,,2.4170907548192937,,Ativo,
+500,Cliente_501,Consultor_A,2023-09-01,,3.5055473798552663,,Ativo,
+501,Cliente_502,Consultor_C,2023-12-26,,1.644208489601123,,Ativo,
+502,Cliente_503,Consultor_B,2023-04-24,,4.460015309719827,,Ativo,
+503,Cliente_504,Consultor_A,2023-03-13,2023-03-16,3.010343482502933,Motivo_A,Cancelado,3 days
+504,Cliente_505,Consultor_B,2023-11-24,,2.55857255049819,,Ativo,
+505,Cliente_506,Consultor_B,2023-12-27,2024-01-24,3.509367780546593,Motivo_A,Cancelado,28 days
+506,Cliente_507,Consultor_A,2023-02-19,,4.580791049479469,,Ativo,
+507,Cliente_508,Consultor_A,2023-01-04,,3.7470465045877615,,Ativo,
+508,Cliente_509,Consultor_A,2023-07-20,,4.901496636078226,,Ativo,
+509,Cliente_510,Consultor_C,2023-03-08,,4.404828231703084,,Ativo,
+510,Cliente_511,Consultor_B,2023-01-15,,2.561786979080343,,Ativo,
+511,Cliente_512,Consultor_C,2023-05-22,,1.728319619636021,,Ativo,
+512,Cliente_513,Consultor_B,2023-11-26,2023-12-04,2.56556812224083,Motivo_B,Cancelado,8 days
+513,Cliente_514,Consultor_B,2023-05-15,,2.6695198080814757,,Ativo,
+514,Cliente_515,Consultor_B,2023-06-09,,4.216459092361742,,Ativo,
+515,Cliente_516,Consultor_C,2023-05-12,,4.575554702288504,,Ativo,
+516,Cliente_517,Consultor_B,2023-12-07,,1.040702757559779,,Ativo,
+517,Cliente_518,Consultor_A,2023-10-27,2023-11-18,3.109761564217464,Motivo_A,Cancelado,22 days
+518,Cliente_519,Consultor_A,2023-08-15,2023-09-06,2.852416831439547,Motivo_B,Cancelado,22 days
+519,Cliente_520,Consultor_B,2023-12-19,,2.29346019971418,,Ativo,
+520,Cliente_521,Consultor_A,2023-12-01,,2.8064814536571636,,Ativo,
+521,Cliente_522,Consultor_C,2023-01-13,2023-01-21,1.610040920417365,Motivo_C,Cancelado,8 days
+522,Cliente_523,Consultor_B,2023-07-11,,4.739826537682294,,Ativo,
+523,Cliente_524,Consultor_C,2023-06-26,2023-07-04,4.112331863114973,Motivo_A,Cancelado,8 days
+524,Cliente_525,Consultor_B,2023-05-02,,1.8990845684781394,,Ativo,
+525,Cliente_526,Consultor_C,2023-12-24,,2.876524226370613,,Ativo,
+526,Cliente_527,Consultor_A,2023-04-08,,4.486855438934251,,Ativo,
+527,Cliente_528,Consultor_A,2023-08-17,,1.0367431542498924,,Ativo,
+528,Cliente_529,Consultor_B,2023-06-13,,4.0497311020616635,,Ativo,
+529,Cliente_530,Consultor_C,2023-03-24,,4.66066360294411,,Ativo,
+530,Cliente_531,Consultor_A,2023-11-14,,2.892607038875158,,Ativo,
+531,Cliente_532,Consultor_C,2023-01-15,,3.744641888808826,,Ativo,
+532,Cliente_533,Consultor_A,2023-08-08,,3.9435949940696635,,Ativo,
+533,Cliente_534,Consultor_B,2023-05-27,2023-06-17,2.249808543889941,Motivo_A,Cancelado,21 days
+534,Cliente_535,Consultor_B,2023-05-07,,4.2220631189951146,,Ativo,
+535,Cliente_536,Consultor_A,2023-04-06,,4.026920375876091,,Ativo,
+536,Cliente_537,Consultor_B,2023-07-06,2023-07-11,1.6232558659003122,Motivo_A,Cancelado,5 days
+537,Cliente_538,Consultor_A,2023-06-21,,1.3031218083644025,,Ativo,
+538,Cliente_539,Consultor_C,2023-03-09,2023-03-10,1.1913789634680398,Motivo_B,Cancelado,1 days
+539,Cliente_540,Consultor_B,2023-09-13,,2.1077827738141366,,Ativo,
+540,Cliente_541,Consultor_A,2023-06-23,2023-07-03,3.9363765115583496,Motivo_B,Cancelado,10 days
+541,Cliente_542,Consultor_B,2023-01-07,,1.7659855161095317,,Ativo,
+542,Cliente_543,Consultor_B,2023-01-26,,2.697099405542132,,Ativo,
+543,Cliente_544,Consultor_C,2023-11-25,2023-12-03,3.820057765362885,Motivo_C,Cancelado,8 days
+544,Cliente_545,Consultor_B,2023-01-26,,1.0038781719286605,,Ativo,
+545,Cliente_546,Consultor_A,2023-06-22,,3.4220130489025813,,Ativo,
+546,Cliente_547,Consultor_A,2023-10-05,2023-10-28,3.1302207919106646,Motivo_B,Cancelado,23 days
+547,Cliente_548,Consultor_A,2023-07-21,,1.7763873710426967,,Ativo,
+548,Cliente_549,Consultor_A,2023-04-22,,2.501327815285865,,Ativo,
+549,Cliente_550,Consultor_C,2023-11-11,,3.6920487379730873,,Ativo,
+550,Cliente_551,Consultor_B,2023-03-13,,1.6652039749535033,,Ativo,
+551,Cliente_552,Consultor_B,2023-05-18,2023-05-28,2.762253583060025,Motivo_B,Cancelado,10 days
+552,Cliente_553,Consultor_B,2023-08-28,,4.633320672681434,,Ativo,
+553,Cliente_554,Consultor_C,2023-09-22,,3.7746555450914245,,Ativo,
+554,Cliente_555,Consultor_B,2023-02-03,,4.474567296039586,,Ativo,
+555,Cliente_556,Consultor_B,2023-09-14,,3.8582488805816983,,Ativo,
+556,Cliente_557,Consultor_A,2023-02-24,,2.9759854480231094,,Ativo,
+557,Cliente_558,Consultor_A,2023-05-05,2023-05-13,4.040602689796994,Motivo_A,Cancelado,8 days
+558,Cliente_559,Consultor_B,2023-09-18,,1.0496269970189593,,Ativo,
+559,Cliente_560,Consultor_A,2023-04-16,2023-05-16,2.3738855206648624,Motivo_B,Cancelado,30 days
+560,Cliente_561,Consultor_B,2023-10-02,,4.116908467189175,,Ativo,
+561,Cliente_562,Consultor_C,2023-02-20,,1.0481435110479258,,Ativo,
+562,Cliente_563,Consultor_B,2023-10-28,2023-11-01,2.9458258083090043,Motivo_C,Cancelado,4 days
+563,Cliente_564,Consultor_B,2023-08-26,,3.4679431818201505,,Ativo,
+564,Cliente_565,Consultor_C,2023-04-15,,2.3672030023842288,,Ativo,
+565,Cliente_566,Consultor_C,2023-09-30,,3.53059585629938,,Ativo,
+566,Cliente_567,Consultor_A,2023-02-09,,3.391973561546274,,Ativo,
+567,Cliente_568,Consultor_A,2023-01-20,,3.9101044961265177,,Ativo,
+568,Cliente_569,Consultor_B,2023-07-26,,2.3558614533973867,,Ativo,
+569,Cliente_570,Consultor_C,2023-05-21,,3.3819559579519285,,Ativo,
+570,Cliente_571,Consultor_C,2023-08-29,,1.8514520641663244,,Ativo,
+571,Cliente_572,Consultor_C,2023-05-26,,4.742875141389632,,Ativo,
+572,Cliente_573,Consultor_A,2023-05-29,,3.8950945763664095,,Ativo,
+573,Cliente_574,Consultor_B,2023-03-12,,4.528792718692978,,Ativo,
+574,Cliente_575,Consultor_C,2023-03-28,2023-04-16,1.6832231353766938,Motivo_C,Cancelado,19 days
+575,Cliente_576,Consultor_B,2023-03-30,,4.138416962411878,,Ativo,
+576,Cliente_577,Consultor_B,2023-11-25,,3.1756915905252896,,Ativo,
+577,Cliente_578,Consultor_B,2023-01-11,,1.1538416058745606,,Ativo,
+578,Cliente_579,Consultor_B,2023-11-21,,1.822803316505393,,Ativo,
+579,Cliente_580,Consultor_C,2023-09-28,,3.2865963275089185,,Ativo,
+580,Cliente_581,Consultor_B,2023-02-25,,2.1419904526699898,,Ativo,
+581,Cliente_582,Consultor_C,2023-09-11,,1.9808867824995047,,Ativo,
+582,Cliente_583,Consultor_A,2023-10-08,,4.196725515098773,,Ativo,
+583,Cliente_584,Consultor_B,2023-02-03,,1.6000265275861643,,Ativo,
+584,Cliente_585,Consultor_B,2023-05-19,2023-06-14,3.483210583216183,Motivo_C,Cancelado,26 days
+585,Cliente_586,Consultor_C,2023-03-30,2023-04-11,1.4390632272449695,Motivo_A,Cancelado,12 days
+586,Cliente_587,Consultor_C,2023-06-11,,4.096932071787835,,Ativo,
+587,Cliente_588,Consultor_A,2023-02-10,,1.629538613076,,Ativo,
+588,Cliente_589,Consultor_A,2023-09-19,2023-09-20,3.820788482145215,Motivo_B,Cancelado,1 days
+589,Cliente_590,Consultor_B,2023-06-08,,3.244873997562095,,Ativo,
+590,Cliente_591,Consultor_B,2023-04-03,,3.647762224216006,,Ativo,
+591,Cliente_592,Consultor_A,2023-04-01,,2.3672801029099,,Ativo,
+592,Cliente_593,Consultor_C,2023-09-06,,4.731123485466157,,Ativo,
+593,Cliente_594,Consultor_B,2023-06-04,2023-07-03,4.068758700661757,Motivo_B,Cancelado,29 days
+594,Cliente_595,Consultor_A,2023-04-05,,4.295547411835669,,Ativo,
+595,Cliente_596,Consultor_A,2023-04-15,,4.717547110690234,,Ativo,
+596,Cliente_597,Consultor_B,2023-11-16,,2.6185534012786613,,Ativo,
+597,Cliente_598,Consultor_C,2023-10-07,,1.6247676678274479,,Ativo,
+598,Cliente_599,Consultor_C,2023-01-27,,1.401101712024306,,Ativo,
+599,Cliente_600,Consultor_B,2023-06-25,,1.4557223090580238,,Ativo,
+600,Cliente_601,Consultor_A,2023-03-02,,1.5052982929284777,,Ativo,
+601,Cliente_602,Consultor_C,2023-03-10,,1.5639415536831027,,Ativo,
+602,Cliente_603,Consultor_C,2023-06-23,,4.375051169716894,,Ativo,
+603,Cliente_604,Consultor_B,2023-07-24,,2.031845629512243,,Ativo,
+604,Cliente_605,Consultor_A,2023-06-26,,4.578081865092878,,Ativo,
+605,Cliente_606,Consultor_B,2023-10-19,,3.1910635147989357,,Ativo,
+606,Cliente_607,Consultor_B,2023-04-02,,2.4609467801816667,,Ativo,
+607,Cliente_608,Consultor_C,2023-10-14,,2.4044009045713617,,Ativo,
+608,Cliente_609,Consultor_B,2023-12-19,,3.8194311518211825,,Ativo,
+609,Cliente_610,Consultor_A,2023-11-20,2023-12-11,4.384568626548665,Motivo_C,Cancelado,21 days
+610,Cliente_611,Consultor_B,2023-10-20,,3.5987391324441984,,Ativo,
+611,Cliente_612,Consultor_C,2023-01-26,,2.4364489347760454,,Ativo,
+612,Cliente_613,Consultor_A,2023-08-13,,2.445851517416456,,Ativo,
+613,Cliente_614,Consultor_A,2023-04-22,,4.145532544564947,,Ativo,
+614,Cliente_615,Consultor_A,2023-09-27,2023-10-12,1.715974041289618,Motivo_A,Cancelado,15 days
+615,Cliente_616,Consultor_B,2023-07-28,2023-08-13,1.7363284114274258,Motivo_B,Cancelado,16 days
+616,Cliente_617,Consultor_C,2023-10-04,,4.052304830302397,,Ativo,
+617,Cliente_618,Consultor_B,2023-12-04,2023-12-05,4.17770004377819,Motivo_C,Cancelado,1 days
+618,Cliente_619,Consultor_B,2023-10-07,,3.6995863268191007,,Ativo,
+619,Cliente_620,Consultor_A,2023-08-13,,1.6448412969999113,,Ativo,
+620,Cliente_621,Consultor_C,2023-07-07,,3.775659283671557,,Ativo,
+621,Cliente_622,Consultor_B,2023-10-25,2023-11-14,1.5294683936539415,Motivo_A,Cancelado,20 days
+622,Cliente_623,Consultor_B,2023-04-20,,3.977027513811763,,Ativo,
+623,Cliente_624,Consultor_A,2023-02-07,,4.859863218884698,,Ativo,
+624,Cliente_625,Consultor_B,2023-01-01,,3.6138797037822563,,Ativo,
+625,Cliente_626,Consultor_C,2023-03-14,,3.157637168263908,,Ativo,
+626,Cliente_627,Consultor_C,2023-05-24,,2.4699949175225724,,Ativo,
+627,Cliente_628,Consultor_A,2023-03-23,,2.9130533407667545,,Ativo,
+628,Cliente_629,Consultor_C,2023-10-26,,4.455149242301793,,Ativo,
+629,Cliente_630,Consultor_B,2023-01-18,,2.9561744230840064,,Ativo,
+630,Cliente_631,Consultor_C,2023-03-10,,3.053292703204539,,Ativo,
+631,Cliente_632,Consultor_B,2023-08-06,,2.3741784247187554,,Ativo,
+632,Cliente_633,Consultor_A,2023-07-30,,2.442741187534368,,Ativo,
+633,Cliente_634,Consultor_B,2023-10-27,2023-11-01,4.2390653237290845,Motivo_A,Cancelado,5 days
+634,Cliente_635,Consultor_C,2023-11-08,,2.633639749072189,,Ativo,
+635,Cliente_636,Consultor_C,2023-02-22,2023-03-20,3.4420797667530505,Motivo_B,Cancelado,26 days
+636,Cliente_637,Consultor_C,2023-01-17,,4.126222588691672,,Ativo,
+637,Cliente_638,Consultor_B,2023-01-13,,2.8783595260271033,,Ativo,
+638,Cliente_639,Consultor_C,2023-06-06,,4.751348447288235,,Ativo,
+639,Cliente_640,Consultor_B,2023-02-11,,3.0235795453819283,,Ativo,
+640,Cliente_641,Consultor_C,2023-03-27,,4.866795150298251,,Ativo,
+641,Cliente_642,Consultor_C,2023-11-13,2023-11-18,3.702241441632384,Motivo_A,Cancelado,5 days
+642,Cliente_643,Consultor_A,2023-12-05,,2.057467687369118,,Ativo,
+643,Cliente_644,Consultor_C,2023-03-15,,2.188487575092201,,Ativo,
+644,Cliente_645,Consultor_B,2023-08-12,,3.6609679285450385,,Ativo,
+645,Cliente_646,Consultor_B,2023-11-11,,2.4421530497732067,,Ativo,
+646,Cliente_647,Consultor_C,2023-02-04,,3.8016236284456784,,Ativo,
+647,Cliente_648,Consultor_A,2023-04-17,,1.0648112241278036,,Ativo,
+648,Cliente_649,Consultor_B,2023-02-06,2023-02-26,4.532619460282217,Motivo_C,Cancelado,20 days
+649,Cliente_650,Consultor_B,2023-11-05,,4.831855883339351,,Ativo,
+650,Cliente_651,Consultor_A,2023-11-19,,4.42993985904922,,Ativo,
+651,Cliente_652,Consultor_A,2023-02-14,,2.8522269756730383,,Ativo,
+652,Cliente_653,Consultor_B,2023-07-23,2023-08-02,4.437637773917766,Motivo_C,Cancelado,10 days
+653,Cliente_654,Consultor_A,2023-02-17,,3.9710316540707864,,Ativo,
+654,Cliente_655,Consultor_A,2023-03-12,,1.6887036535207844,,Ativo,
+655,Cliente_656,Consultor_B,2023-07-20,2023-08-06,4.732505342647897,Motivo_A,Cancelado,17 days
+656,Cliente_657,Consultor_C,2023-04-15,,2.966592191546427,,Ativo,
+657,Cliente_658,Consultor_C,2023-05-01,,1.6553277404572073,,Ativo,
+658,Cliente_659,Consultor_B,2023-02-06,,2.7970381624645504,,Ativo,
+659,Cliente_660,Consultor_A,2023-11-16,,4.037482582849908,,Ativo,
+660,Cliente_661,Consultor_B,2023-03-18,2023-03-26,4.472467879996668,Motivo_C,Cancelado,8 days
+661,Cliente_662,Consultor_A,2023-10-01,,3.8157463519288433,,Ativo,
+662,Cliente_663,Consultor_A,2023-06-30,,2.812392404186533,,Ativo,
+663,Cliente_664,Consultor_B,2023-03-12,,3.9477947043487482,,Ativo,
+664,Cliente_665,Consultor_B,2023-07-05,2023-07-11,1.233223004677756,Motivo_C,Cancelado,6 days
+665,Cliente_666,Consultor_C,2023-01-18,2023-02-01,3.5849382966672563,Motivo_B,Cancelado,14 days
+666,Cliente_667,Consultor_B,2023-09-30,,2.86043120070642,,Ativo,
+667,Cliente_668,Consultor_A,2023-11-22,2023-12-06,2.333340652346459,Motivo_C,Cancelado,14 days
+668,Cliente_669,Consultor_A,2023-04-15,,1.6262745363146105,,Ativo,
+669,Cliente_670,Consultor_A,2023-08-26,,1.811558016652679,,Ativo,
+670,Cliente_671,Consultor_C,2023-06-01,,4.188909510825177,,Ativo,
+671,Cliente_672,Consultor_B,2023-12-05,,3.7404544979121446,,Ativo,
+672,Cliente_673,Consultor_C,2023-05-17,,4.112516924077843,,Ativo,
+673,Cliente_674,Consultor_B,2023-02-17,2023-03-02,4.775281898761207,Motivo_B,Cancelado,13 days
+674,Cliente_675,Consultor_C,2023-03-06,2023-03-10,4.723662140977067,Motivo_A,Cancelado,4 days
+675,Cliente_676,Consultor_B,2023-12-16,,3.4417436267774475,,Ativo,
+676,Cliente_677,Consultor_A,2023-04-22,,2.0371688399841763,,Ativo,
+677,Cliente_678,Consultor_B,2023-04-05,,1.1698388257361385,,Ativo,
+678,Cliente_679,Consultor_B,2023-01-20,,1.4559239778586366,,Ativo,
+679,Cliente_680,Consultor_C,2023-03-25,,1.540081771355723,,Ativo,
+680,Cliente_681,Consultor_B,2023-07-11,,1.1400939898557434,,Ativo,
+681,Cliente_682,Consultor_A,2023-09-19,,4.763749527299343,,Ativo,
+682,Cliente_683,Consultor_B,2023-03-18,,3.13659645952155,,Ativo,
+683,Cliente_684,Consultor_B,2023-04-14,,1.1608269212336215,,Ativo,
+684,Cliente_685,Consultor_C,2023-10-03,,2.1683516241485727,,Ativo,
+685,Cliente_686,Consultor_B,2023-04-30,,2.570154123044684,,Ativo,
+686,Cliente_687,Consultor_A,2023-03-22,,4.015394132907732,,Ativo,
+687,Cliente_688,Consultor_B,2023-11-01,2023-12-01,2.83530511176122,Motivo_B,Cancelado,30 days
+688,Cliente_689,Consultor_A,2023-05-04,,3.713148739413384,,Ativo,
+689,Cliente_690,Consultor_B,2023-05-03,,2.3552249646511587,,Ativo,
+690,Cliente_691,Consultor_A,2023-11-27,,1.053962773935445,,Ativo,
+691,Cliente_692,Consultor_A,2023-03-27,,3.7353949878488613,,Ativo,
+692,Cliente_693,Consultor_B,2023-09-10,,2.501168863708937,,Ativo,
+693,Cliente_694,Consultor_B,2023-01-20,,4.8276491744816,,Ativo,
+694,Cliente_695,Consultor_A,2023-05-05,,1.4486967910678161,,Ativo,
+695,Cliente_696,Consultor_C,2023-03-20,,1.0843916623237022,,Ativo,
+696,Cliente_697,Consultor_C,2023-06-19,,4.20177683683564,,Ativo,
+697,Cliente_698,Consultor_A,2023-04-30,,2.8915744400670733,,Ativo,
+698,Cliente_699,Consultor_A,2023-05-30,,2.087330762848238,,Ativo,
+699,Cliente_700,Consultor_B,2023-02-01,2023-02-26,2.6715585870979037,Motivo_B,Cancelado,25 days
+700,Cliente_701,Consultor_A,2023-12-22,2024-01-07,1.8515274111281417,Motivo_A,Cancelado,16 days
+701,Cliente_702,Consultor_A,2023-07-05,,2.0478618816479557,,Ativo,
+702,Cliente_703,Consultor_B,2023-11-20,,3.2446612869113385,,Ativo,
+703,Cliente_704,Consultor_C,2023-03-12,2023-03-16,2.212011180163482,Motivo_B,Cancelado,4 days
+704,Cliente_705,Consultor_C,2023-05-02,,3.316690729097344,,Ativo,
+705,Cliente_706,Consultor_A,2023-03-27,,1.7211377689425866,,Ativo,
+706,Cliente_707,Consultor_C,2023-08-31,,3.8186422524650907,,Ativo,
+707,Cliente_708,Consultor_C,2023-01-02,,1.1689939437523647,,Ativo,
+708,Cliente_709,Consultor_C,2023-05-25,,3.4339190648652385,,Ativo,
+709,Cliente_710,Consultor_B,2023-06-07,2023-06-29,1.3513012456863018,Motivo_A,Cancelado,22 days
+710,Cliente_711,Consultor_C,2023-05-23,,1.1961146660679005,,Ativo,
+711,Cliente_712,Consultor_B,2023-01-17,,2.8312266455682624,,Ativo,
+712,Cliente_713,Consultor_A,2023-04-05,,1.8293771728911303,,Ativo,
+713,Cliente_714,Consultor_B,2023-07-12,,3.203749809887772,,Ativo,
+714,Cliente_715,Consultor_C,2023-04-30,2023-05-09,2.215171304020652,Motivo_C,Cancelado,9 days
+715,Cliente_716,Consultor_C,2023-12-12,2023-12-19,4.599869386949857,Motivo_A,Cancelado,7 days
+716,Cliente_717,Consultor_C,2023-04-09,,2.9647391475628257,,Ativo,
+717,Cliente_718,Consultor_B,2023-04-21,2023-05-21,4.60395903669475,Motivo_B,Cancelado,30 days
+718,Cliente_719,Consultor_A,2023-08-26,,4.345973325007012,,Ativo,
+719,Cliente_720,Consultor_A,2023-07-26,,4.948254997813993,,Ativo,
+720,Cliente_721,Consultor_A,2023-03-05,,2.7063023260143435,,Ativo,
+721,Cliente_722,Consultor_A,2023-01-24,2023-02-04,1.361797892985638,Motivo_A,Cancelado,11 days
+722,Cliente_723,Consultor_B,2023-08-24,,2.8635071955637663,,Ativo,
+723,Cliente_724,Consultor_B,2023-09-04,,2.839724806474377,,Ativo,
+724,Cliente_725,Consultor_A,2023-02-28,,4.892865300033998,,Ativo,
+725,Cliente_726,Consultor_C,2023-12-06,,3.144114188921475,,Ativo,
+726,Cliente_727,Consultor_A,2023-01-19,,3.5098410032993868,,Ativo,
+727,Cliente_728,Consultor_C,2023-12-07,,1.7249675391810388,,Ativo,
+728,Cliente_729,Consultor_A,2023-04-01,2023-04-02,4.8975375341931855,Motivo_B,Cancelado,1 days
+729,Cliente_730,Consultor_A,2023-10-25,,3.971925407999429,,Ativo,
+730,Cliente_731,Consultor_A,2023-10-15,,2.9607333958083504,,Ativo,
+731,Cliente_732,Consultor_B,2023-12-07,,2.6949353411687333,,Ativo,
+732,Cliente_733,Consultor_C,2023-08-24,,2.0288208935079473,,Ativo,
+733,Cliente_734,Consultor_B,2023-12-06,,4.260441387255028,,Ativo,
+734,Cliente_735,Consultor_A,2023-03-12,,4.980388712986134,,Ativo,
+735,Cliente_736,Consultor_A,2023-07-06,,1.233538676650518,,Ativo,
+736,Cliente_737,Consultor_B,2023-05-09,,2.0488993341899944,,Ativo,
+737,Cliente_738,Consultor_C,2023-07-10,,2.2303182911977055,,Ativo,
+738,Cliente_739,Consultor_A,2023-11-29,,2.925251310971398,,Ativo,
+739,Cliente_740,Consultor_C,2023-03-20,,1.9924882451448855,,Ativo,
+740,Cliente_741,Consultor_A,2023-01-22,,1.3208735323320857,,Ativo,
+741,Cliente_742,Consultor_C,2023-10-26,,2.0905752991132616,,Ativo,
+742,Cliente_743,Consultor_A,2023-10-23,2023-11-06,4.657185001749948,Motivo_C,Cancelado,14 days
+743,Cliente_744,Consultor_B,2023-04-26,2023-05-17,3.70647217336709,Motivo_A,Cancelado,21 days
+744,Cliente_745,Consultor_A,2023-07-04,,2.4625191745164043,,Ativo,
+745,Cliente_746,Consultor_A,2024-01-01,2024-01-27,4.150510142801686,Motivo_A,Cancelado,26 days
+746,Cliente_747,Consultor_C,2023-07-04,,1.936373050165236,,Ativo,
+747,Cliente_748,Consultor_B,2023-11-03,,3.915296240066263,,Ativo,
+748,Cliente_749,Consultor_A,2023-09-18,,1.6813773482944927,,Ativo,
+749,Cliente_750,Consultor_C,2023-06-10,,4.164566168612382,,Ativo,
+750,Cliente_751,Consultor_B,2023-02-04,2023-02-24,1.2385773405362883,Motivo_B,Cancelado,20 days
+751,Cliente_752,Consultor_A,2023-12-18,,4.486534998329606,,Ativo,
+752,Cliente_753,Consultor_C,2023-08-11,,4.053833039707434,,Ativo,
+753,Cliente_754,Consultor_A,2023-01-28,2023-02-15,4.903372988554214,Motivo_A,Cancelado,18 days
+754,Cliente_755,Consultor_C,2023-03-18,,4.942177713945348,,Ativo,
+755,Cliente_756,Consultor_A,2023-12-22,,2.075944451826602,,Ativo,
+756,Cliente_757,Consultor_B,2023-09-16,,2.275298959105433,,Ativo,
+757,Cliente_758,Consultor_A,2023-04-03,,2.6411899933986214,,Ativo,
+758,Cliente_759,Consultor_B,2023-08-21,2023-08-30,1.64404478152028,Motivo_C,Cancelado,9 days
+759,Cliente_760,Consultor_A,2023-05-06,,2.8667697079791647,,Ativo,
+760,Cliente_761,Consultor_C,2023-04-05,,3.6475605111177676,,Ativo,
+761,Cliente_762,Consultor_B,2023-11-30,,1.488237805704577,,Ativo,
+762,Cliente_763,Consultor_B,2023-07-14,,2.6367653827060367,,Ativo,
+763,Cliente_764,Consultor_A,2023-02-04,,4.087402532691884,,Ativo,
+764,Cliente_765,Consultor_A,2023-10-29,,3.8053755457062888,,Ativo,
+765,Cliente_766,Consultor_A,2023-05-10,,1.502054702224636,,Ativo,
+766,Cliente_767,Consultor_A,2023-04-20,2023-04-24,2.791201431817938,Motivo_B,Cancelado,4 days
+767,Cliente_768,Consultor_B,2023-03-09,,1.996282054659317,,Ativo,
+768,Cliente_769,Consultor_C,2023-09-23,,1.4945809105196868,,Ativo,
+769,Cliente_770,Consultor_B,2023-07-01,,3.373520438157078,,Ativo,
+770,Cliente_771,Consultor_A,2023-11-13,,2.3655339638676516,,Ativo,
+771,Cliente_772,Consultor_A,2023-10-20,2023-11-04,1.6479991509901084,Motivo_A,Cancelado,15 days
+772,Cliente_773,Consultor_C,2023-10-11,,3.5705821021585433,,Ativo,
+773,Cliente_774,Consultor_A,2023-08-14,2023-08-18,3.9085894811736734,Motivo_A,Cancelado,4 days
+774,Cliente_775,Consultor_B,2023-03-28,2023-04-09,4.993814232328438,Motivo_C,Cancelado,12 days
+775,Cliente_776,Consultor_B,2023-09-02,2023-09-05,2.8043064930727484,Motivo_B,Cancelado,3 days
+776,Cliente_777,Consultor_A,2023-09-24,,4.617793922424639,,Ativo,
+777,Cliente_778,Consultor_A,2023-04-20,,4.63381305494153,,Ativo,
+778,Cliente_779,Consultor_B,2023-05-23,,1.8770902738228679,,Ativo,
+779,Cliente_780,Consultor_C,2023-01-15,2023-02-04,1.51106457752289,Motivo_B,Cancelado,20 days
+780,Cliente_781,Consultor_B,2023-09-20,,3.846247534105624,,Ativo,
+781,Cliente_782,Consultor_C,2023-11-10,,3.83497302502667,,Ativo,
+782,Cliente_783,Consultor_B,2023-11-24,,4.674541682219891,,Ativo,
+783,Cliente_784,Consultor_B,2023-04-17,2023-04-24,2.968588199969901,Motivo_B,Cancelado,7 days
+784,Cliente_785,Consultor_C,2023-11-10,,1.5556623350982655,,Ativo,
+785,Cliente_786,Consultor_C,2023-03-13,,2.32203440664322,,Ativo,
+786,Cliente_787,Consultor_A,2023-07-11,,3.013697479718035,,Ativo,
+787,Cliente_788,Consultor_C,2023-01-12,,3.6583133093438978,,Ativo,
+788,Cliente_789,Consultor_B,2023-09-27,,4.077296188112762,,Ativo,
+789,Cliente_790,Consultor_B,2023-12-25,,3.8588287372272796,,Ativo,
+790,Cliente_791,Consultor_B,2023-05-02,,1.2155616189058076,,Ativo,
+791,Cliente_792,Consultor_C,2023-09-07,,1.8299850573085261,,Ativo,
+792,Cliente_793,Consultor_B,2023-11-26,,1.180561870366157,,Ativo,
+793,Cliente_794,Consultor_B,2023-02-21,2023-03-11,4.747607085538498,Motivo_A,Cancelado,18 days
+794,Cliente_795,Consultor_A,2023-09-25,,3.6929242186489577,,Ativo,
+795,Cliente_796,Consultor_B,2023-04-27,,1.3213431282763026,,Ativo,
+796,Cliente_797,Consultor_B,2023-07-20,,4.225716580763123,,Ativo,
+797,Cliente_798,Consultor_C,2023-03-05,,3.332404639146698,,Ativo,
+798,Cliente_799,Consultor_B,2023-11-07,2023-11-10,4.209963386934686,Motivo_C,Cancelado,3 days
+799,Cliente_800,Consultor_C,2023-09-18,,2.548263626122888,,Ativo,
+800,Cliente_801,Consultor_A,2023-01-10,2023-01-13,2.604720698880227,Motivo_A,Cancelado,3 days
+801,Cliente_802,Consultor_C,2023-06-18,2023-07-10,3.7765152206042902,Motivo_B,Cancelado,22 days
+802,Cliente_803,Consultor_C,2023-03-22,,2.747185023884319,,Ativo,
+803,Cliente_804,Consultor_A,2023-08-24,,4.618325009035502,,Ativo,
+804,Cliente_805,Consultor_C,2023-01-10,2023-01-22,4.161653595112066,Motivo_A,Cancelado,12 days
+805,Cliente_806,Consultor_C,2023-12-23,,2.3594954070285095,,Ativo,
+806,Cliente_807,Consultor_B,2023-02-24,,2.998937241667724,,Ativo,
+807,Cliente_808,Consultor_C,2023-05-09,,4.788118049009595,,Ativo,
+808,Cliente_809,Consultor_B,2023-09-05,,2.6427349470038237,,Ativo,
+809,Cliente_810,Consultor_C,2023-06-07,,3.5146992911447716,,Ativo,
+810,Cliente_811,Consultor_B,2023-06-25,,4.419851636308993,,Ativo,
+811,Cliente_812,Consultor_C,2023-11-29,,3.5421640256252993,,Ativo,
+812,Cliente_813,Consultor_C,2023-01-18,,2.9559165754595997,,Ativo,
+813,Cliente_814,Consultor_A,2023-06-15,,1.0576576135686606,,Ativo,
+814,Cliente_815,Consultor_A,2023-05-25,,2.832213854462134,,Ativo,
+815,Cliente_816,Consultor_A,2023-07-16,,2.034789856213409,,Ativo,
+816,Cliente_817,Consultor_A,2023-03-02,,3.4984535554126506,,Ativo,
+817,Cliente_818,Consultor_C,2023-09-05,,3.6838786882975807,,Ativo,
+818,Cliente_819,Consultor_A,2023-02-11,,3.151249058470934,,Ativo,
+819,Cliente_820,Consultor_A,2023-09-06,,1.6621046869890104,,Ativo,
+820,Cliente_821,Consultor_C,2023-10-25,,4.497813580145351,,Ativo,
+821,Cliente_822,Consultor_C,2023-09-06,2023-09-09,1.6545402095127688,Motivo_B,Cancelado,3 days
+822,Cliente_823,Consultor_B,2023-06-03,,2.0431373919878535,,Ativo,
+823,Cliente_824,Consultor_B,2023-11-01,,1.9728027278539368,,Ativo,
+824,Cliente_825,Consultor_A,2023-10-16,,3.9380457943232705,,Ativo,
+825,Cliente_826,Consultor_A,2023-02-03,2023-02-22,4.878437358034466,Motivo_C,Cancelado,19 days
+826,Cliente_827,Consultor_C,2023-11-14,2023-11-21,4.952583679165066,Motivo_C,Cancelado,7 days
+827,Cliente_828,Consultor_C,2023-11-10,,4.463399442755992,,Ativo,
+828,Cliente_829,Consultor_A,2023-03-04,,2.944682984083384,,Ativo,
+829,Cliente_830,Consultor_C,2023-12-08,2023-12-22,4.590607704937896,Motivo_A,Cancelado,14 days
+830,Cliente_831,Consultor_C,2023-12-20,2023-12-30,4.854485700593672,Motivo_C,Cancelado,10 days
+831,Cliente_832,Consultor_C,2023-08-02,,2.1400198184176564,,Ativo,
+832,Cliente_833,Consultor_C,2023-02-19,,4.818125226313768,,Ativo,
+833,Cliente_834,Consultor_A,2023-01-08,,1.1392854743012184,,Ativo,
+834,Cliente_835,Consultor_B,2023-02-14,,2.4247555690402915,,Ativo,
+835,Cliente_836,Consultor_B,2023-06-27,,3.0197363677283846,,Ativo,
+836,Cliente_837,Consultor_A,2023-11-11,,4.8189631850492916,,Ativo,
+837,Cliente_838,Consultor_C,2023-04-09,,3.547494797543307,,Ativo,
+838,Cliente_839,Consultor_C,2023-10-03,,3.1872667214855883,,Ativo,
+839,Cliente_840,Consultor_A,2023-09-30,,3.1100756155824483,,Ativo,
+840,Cliente_841,Consultor_A,2023-06-07,,3.58175455548393,,Ativo,
+841,Cliente_842,Consultor_C,2023-12-21,,4.705467650378396,,Ativo,
+842,Cliente_843,Consultor_B,2023-06-18,,3.9464681554789443,,Ativo,
+843,Cliente_844,Consultor_B,2023-10-06,,2.6297468746529096,,Ativo,
+844,Cliente_845,Consultor_A,2023-03-28,,4.640165615997605,,Ativo,
+845,Cliente_846,Consultor_C,2023-02-06,,2.5321951093599244,,Ativo,
+846,Cliente_847,Consultor_C,2023-11-11,,3.4475270316832645,,Ativo,
+847,Cliente_848,Consultor_C,2023-09-16,2023-09-17,4.257570873781645,Motivo_A,Cancelado,1 days
+848,Cliente_849,Consultor_C,2023-09-19,2023-10-05,4.947473779336438,Motivo_A,Cancelado,16 days
+849,Cliente_850,Consultor_B,2023-03-03,,2.724244257938381,,Ativo,
+850,Cliente_851,Consultor_B,2023-05-24,,1.1366976535320998,,Ativo,
+851,Cliente_852,Consultor_B,2023-05-09,2023-05-22,2.154534543572086,Motivo_B,Cancelado,13 days
+852,Cliente_853,Consultor_B,2023-08-26,,2.433137456558758,,Ativo,
+853,Cliente_854,Consultor_B,2023-11-21,,4.838532213008515,,Ativo,
+854,Cliente_855,Consultor_B,2023-08-03,,4.672533552280079,,Ativo,
+855,Cliente_856,Consultor_C,2023-10-18,,1.940095022163109,,Ativo,
+856,Cliente_857,Consultor_A,2023-09-24,,1.742995574662637,,Ativo,
+857,Cliente_858,Consultor_B,2023-08-13,,2.6544925319604227,,Ativo,
+858,Cliente_859,Consultor_A,2023-05-28,,3.6971289954853455,,Ativo,
+859,Cliente_860,Consultor_C,2023-04-13,,3.7678953269029423,,Ativo,
+860,Cliente_861,Consultor_B,2023-12-11,,3.6722970098232346,,Ativo,
+861,Cliente_862,Consultor_C,2023-07-07,,4.862650504622087,,Ativo,
+862,Cliente_863,Consultor_C,2023-04-09,,4.401931690110567,,Ativo,
+863,Cliente_864,Consultor_A,2023-06-01,,1.6220105757134302,,Ativo,
+864,Cliente_865,Consultor_A,2023-05-08,,3.5641722007270236,,Ativo,
+865,Cliente_866,Consultor_C,2023-06-28,,3.691276346712558,,Ativo,
+866,Cliente_867,Consultor_C,2023-07-15,,1.6272205589254893,,Ativo,
+867,Cliente_868,Consultor_B,2023-12-08,2023-12-22,2.8727283432231863,Motivo_A,Cancelado,14 days
+868,Cliente_869,Consultor_A,2023-11-27,,4.101356920004539,,Ativo,
+869,Cliente_870,Consultor_A,2023-08-24,,2.580649600537233,,Ativo,
+870,Cliente_871,Consultor_B,2023-04-11,,1.8034246370815166,,Ativo,
+871,Cliente_872,Consultor_C,2023-08-15,,3.9764315831274444,,Ativo,
+872,Cliente_873,Consultor_B,2023-09-25,,1.5702081666504988,,Ativo,
+873,Cliente_874,Consultor_C,2023-02-23,,4.647352534943564,,Ativo,
+874,Cliente_875,Consultor_C,2023-11-01,,2.395488365644802,,Ativo,
+875,Cliente_876,Consultor_A,2023-03-12,,1.5428304350255138,,Ativo,
+876,Cliente_877,Consultor_A,2023-02-05,,1.3946337206412855,,Ativo,
+877,Cliente_878,Consultor_B,2023-07-28,,3.3692565303580264,,Ativo,
+878,Cliente_879,Consultor_A,2023-09-21,2023-09-28,3.624438364356244,Motivo_A,Cancelado,7 days
+879,Cliente_880,Consultor_A,2023-09-03,,3.782123847498381,,Ativo,
+880,Cliente_881,Consultor_C,2023-11-12,,1.34637390243681,,Ativo,
+881,Cliente_882,Consultor_A,2023-03-20,,3.9162455328869337,,Ativo,
+882,Cliente_883,Consultor_C,2023-08-05,2023-08-18,2.599859755866538,Motivo_A,Cancelado,13 days
+883,Cliente_884,Consultor_A,2023-01-08,,4.61487810846976,,Ativo,
+884,Cliente_885,Consultor_C,2023-09-19,,3.435798969081347,,Ativo,
+885,Cliente_886,Consultor_B,2023-10-10,,1.6527270288590392,,Ativo,
+886,Cliente_887,Consultor_A,2023-10-25,,2.225264216965477,,Ativo,
+887,Cliente_888,Consultor_C,2023-06-25,,3.3286074936213663,,Ativo,
+888,Cliente_889,Consultor_A,2023-04-30,,1.3321756914124863,,Ativo,
+889,Cliente_890,Consultor_B,2023-10-07,,2.4447609899727714,,Ativo,
+890,Cliente_891,Consultor_B,2023-07-22,,4.2433414931135545,,Ativo,
+891,Cliente_892,Consultor_C,2023-09-29,,3.0221364500591505,,Ativo,
+892,Cliente_893,Consultor_A,2023-03-25,,2.192663393492316,,Ativo,
+893,Cliente_894,Consultor_C,2023-12-10,,4.642093429218191,,Ativo,
+894,Cliente_895,Consultor_C,2023-07-22,,4.95343769795595,,Ativo,
+895,Cliente_896,Consultor_B,2023-06-19,2023-07-14,3.1518593456271744,Motivo_A,Cancelado,25 days
+896,Cliente_897,Consultor_B,2023-11-18,,3.4879400703097843,,Ativo,
+897,Cliente_898,Consultor_B,2023-06-12,,4.964964060121564,,Ativo,
+898,Cliente_899,Consultor_A,2023-09-13,,3.9064017944605416,,Ativo,
+899,Cliente_900,Consultor_C,2023-12-19,,2.057590808306683,,Ativo,
+900,Cliente_901,Consultor_B,2023-05-27,,3.9561170600914815,,Ativo,
+901,Cliente_902,Consultor_C,2023-12-29,,2.6943333190163274,,Ativo,
+902,Cliente_903,Consultor_A,2023-06-06,,3.396001089474577,,Ativo,
+903,Cliente_904,Consultor_C,2023-05-24,,4.280576706908082,,Ativo,
+904,Cliente_905,Consultor_A,2023-11-29,,1.7034652196069495,,Ativo,
+905,Cliente_906,Consultor_C,2023-10-21,,4.860470962364798,,Ativo,
+906,Cliente_907,Consultor_B,2023-04-06,2023-05-02,3.861161350420816,Motivo_A,Cancelado,26 days
+907,Cliente_908,Consultor_B,2023-06-17,2023-07-12,4.629088121274574,Motivo_B,Cancelado,25 days
+908,Cliente_909,Consultor_A,2023-01-05,,4.92216996853702,,Ativo,
+909,Cliente_910,Consultor_B,2023-10-24,2023-11-05,2.197377670671475,Motivo_A,Cancelado,12 days
+910,Cliente_911,Consultor_B,2023-05-25,,3.9215087055818505,,Ativo,
+911,Cliente_912,Consultor_C,2023-08-30,,2.592076804574782,,Ativo,
+912,Cliente_913,Consultor_C,2023-02-15,,3.5727571312618025,,Ativo,
+913,Cliente_914,Consultor_C,2023-09-15,,3.5870086140010646,,Ativo,
+914,Cliente_915,Consultor_A,2023-05-08,,4.119954316932254,,Ativo,
+915,Cliente_916,Consultor_A,2023-09-10,,4.557656322415521,,Ativo,
+916,Cliente_917,Consultor_A,2023-01-15,,4.709892694947468,,Ativo,
+917,Cliente_918,Consultor_B,2023-09-23,,4.51844499261713,,Ativo,
+918,Cliente_919,Consultor_C,2023-08-09,,3.5545227327994815,,Ativo,
+919,Cliente_920,Consultor_A,2023-11-11,2023-12-06,1.333588235343217,Motivo_B,Cancelado,25 days
+920,Cliente_921,Consultor_C,2023-11-06,,4.116617062838508,,Ativo,
+921,Cliente_922,Consultor_C,2023-11-09,,2.5937995402711986,,Ativo,
+922,Cliente_923,Consultor_C,2023-09-14,2023-10-01,1.7553189491643932,Motivo_B,Cancelado,17 days
+923,Cliente_924,Consultor_A,2023-09-30,,4.594004497887432,,Ativo,
+924,Cliente_925,Consultor_B,2023-01-20,,3.6566379334817976,,Ativo,
+925,Cliente_926,Consultor_A,2023-07-23,2023-07-28,1.877617711350215,Motivo_C,Cancelado,5 days
+926,Cliente_927,Consultor_A,2023-07-17,,1.6027415924714155,,Ativo,
+927,Cliente_928,Consultor_B,2023-08-09,,2.7909401187461,,Ativo,
+928,Cliente_929,Consultor_B,2023-05-05,2023-05-18,3.196416690597896,Motivo_A,Cancelado,13 days
+929,Cliente_930,Consultor_B,2023-06-05,,1.3686661658773822,,Ativo,
+930,Cliente_931,Consultor_B,2023-09-05,,4.483846188427183,,Ativo,
+931,Cliente_932,Consultor_A,2023-07-21,,1.8130910835080005,,Ativo,
+932,Cliente_933,Consultor_B,2023-12-07,,2.5475185666103513,,Ativo,
+933,Cliente_934,Consultor_B,2023-02-20,,3.2161469431180203,,Ativo,
+934,Cliente_935,Consultor_A,2023-01-18,,3.6026231156329067,,Ativo,
+935,Cliente_936,Consultor_A,2023-05-13,2023-05-15,3.366757752915338,Motivo_A,Cancelado,2 days
+936,Cliente_937,Consultor_A,2023-03-27,2023-04-07,3.574385187121158,Motivo_A,Cancelado,11 days
+937,Cliente_938,Consultor_A,2023-02-25,,1.7770710192374182,,Ativo,
+938,Cliente_939,Consultor_A,2023-04-23,,3.4900822349717084,,Ativo,
+939,Cliente_940,Consultor_B,2023-07-07,,4.291924475341794,,Ativo,
+940,Cliente_941,Consultor_C,2023-08-22,,3.583489637807899,,Ativo,
+941,Cliente_942,Consultor_A,2023-08-09,,2.5644063466976093,,Ativo,
+942,Cliente_943,Consultor_C,2023-05-17,,3.888036471551468,,Ativo,
+943,Cliente_944,Consultor_A,2023-09-14,,2.9961229278502755,,Ativo,
+944,Cliente_945,Consultor_C,2023-03-06,2023-03-23,2.431999997150888,Motivo_B,Cancelado,17 days
+945,Cliente_946,Consultor_B,2023-07-27,2023-08-12,2.229325351337564,Motivo_A,Cancelado,16 days
+946,Cliente_947,Consultor_C,2023-02-01,,1.352334187191266,,Ativo,
+947,Cliente_948,Consultor_C,2023-09-17,,1.5776518369099413,,Ativo,
+948,Cliente_949,Consultor_A,2023-02-16,2023-02-18,4.665057807394522,Motivo_C,Cancelado,2 days
+949,Cliente_950,Consultor_B,2023-12-22,,4.554561477279771,,Ativo,
+950,Cliente_951,Consultor_B,2023-09-12,,4.8325673975927135,,Ativo,
+951,Cliente_952,Consultor_B,2023-03-01,,2.164980390902763,,Ativo,
+952,Cliente_953,Consultor_A,2023-03-29,,3.186915146296745,,Ativo,
+953,Cliente_954,Consultor_C,2023-12-02,,1.1606528738573236,,Ativo,
+954,Cliente_955,Consultor_C,2023-02-03,,3.898993799443367,,Ativo,
+955,Cliente_956,Consultor_C,2023-03-16,2023-03-23,1.321456824238434,Motivo_B,Cancelado,7 days
+956,Cliente_957,Consultor_A,2023-09-23,,3.102647345672893,,Ativo,
+957,Cliente_958,Consultor_A,2023-03-10,,2.783496722252137,,Ativo,
+958,Cliente_959,Consultor_B,2023-06-01,,1.7999676688102366,,Ativo,
+959,Cliente_960,Consultor_C,2023-05-26,,1.0490282473741663,,Ativo,
+960,Cliente_961,Consultor_C,2023-11-17,2023-11-24,3.882986657236168,Motivo_C,Cancelado,7 days
+961,Cliente_962,Consultor_B,2023-09-26,,2.022680444892238,,Ativo,
+962,Cliente_963,Consultor_B,2023-08-31,,2.4361384336358154,,Ativo,
+963,Cliente_964,Consultor_B,2023-11-27,,1.0447405961345857,,Ativo,
+964,Cliente_965,Consultor_C,2023-05-27,2023-06-06,1.0610020969113982,Motivo_B,Cancelado,10 days
+965,Cliente_966,Consultor_C,2023-02-17,,4.855026869956834,,Ativo,
+966,Cliente_967,Consultor_C,2023-12-18,,3.41841653910469,,Ativo,
+967,Cliente_968,Consultor_C,2023-02-25,,2.6284509050984926,,Ativo,
+968,Cliente_969,Consultor_B,2023-12-02,2023-12-18,4.245730416150079,Motivo_A,Cancelado,16 days
+969,Cliente_970,Consultor_B,2023-09-28,,2.6459026872496083,,Ativo,
+970,Cliente_971,Consultor_C,2023-02-05,,2.1914377645907885,,Ativo,
+971,Cliente_972,Consultor_C,2023-10-09,,3.5372446599671803,,Ativo,
+972,Cliente_973,Consultor_C,2023-09-28,,1.840931645297467,,Ativo,
+973,Cliente_974,Consultor_C,2023-02-09,,3.6498835318952083,,Ativo,
+974,Cliente_975,Consultor_A,2023-11-02,,4.060464375320938,,Ativo,
+975,Cliente_976,Consultor_A,2023-09-06,,3.526766819412557,,Ativo,
+976,Cliente_977,Consultor_B,2023-08-21,,3.0325066079895295,,Ativo,
+977,Cliente_978,Consultor_A,2023-10-22,,4.106973670379064,,Ativo,
+978,Cliente_979,Consultor_C,2023-03-15,,4.155262325703257,,Ativo,
+979,Cliente_980,Consultor_C,2023-10-27,2023-11-11,1.1473991404128197,Motivo_B,Cancelado,15 days
+980,Cliente_981,Consultor_C,2023-10-02,,1.3485334864361067,,Ativo,
+981,Cliente_982,Consultor_C,2023-03-20,,4.115932325929103,,Ativo,
+982,Cliente_983,Consultor_A,2023-11-09,,2.5980206985503345,,Ativo,
+983,Cliente_984,Consultor_C,2023-01-21,,4.73645828698705,,Ativo,
+984,Cliente_985,Consultor_C,2023-07-02,,3.2518433543579572,,Ativo,
+985,Cliente_986,Consultor_C,2023-08-21,,2.4706948938646107,,Ativo,
+986,Cliente_987,Consultor_A,2023-07-22,2023-08-05,4.182468556350615,Motivo_A,Cancelado,14 days
+987,Cliente_988,Consultor_B,2023-03-02,,3.7174458023014614,,Ativo,
+988,Cliente_989,Consultor_A,2023-06-17,,4.525798807118852,,Ativo,
+989,Cliente_990,Consultor_B,2023-09-10,,2.891942039986662,,Ativo,
+990,Cliente_991,Consultor_B,2023-09-06,,1.0405828430497777,,Ativo,
+991,Cliente_992,Consultor_C,2023-07-18,2023-08-09,4.375969570357773,Motivo_A,Cancelado,22 days
+992,Cliente_993,Consultor_A,2023-12-16,2024-01-09,3.693067396803818,Motivo_C,Cancelado,24 days
+993,Cliente_994,Consultor_B,2023-06-24,,1.539235559937206,,Ativo,
+994,Cliente_995,Consultor_C,2023-11-23,,1.562890551434231,,Ativo,
+995,Cliente_996,Consultor_A,2023-02-25,,4.2451483637978935,,Ativo,
+996,Cliente_997,Consultor_A,2023-09-23,2023-10-09,4.248946439518452,Motivo_C,Cancelado,16 days
+997,Cliente_998,Consultor_C,2023-11-30,,4.020504609641276,,Ativo,
+998,Cliente_999,Consultor_C,2023-11-19,,1.226283867153196,,Ativo,
+999,Cliente_1000,Consultor_C,2023-08-23,,1.0313489448314863,,Ativo,
